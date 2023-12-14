@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const repeat2Icon: import("react").JSX.Element;

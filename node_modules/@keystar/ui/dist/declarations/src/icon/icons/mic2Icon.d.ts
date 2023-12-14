@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const mic2Icon: import("react").JSX.Element;

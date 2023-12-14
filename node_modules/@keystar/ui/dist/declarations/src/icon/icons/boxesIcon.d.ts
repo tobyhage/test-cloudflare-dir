@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const boxesIcon: import("react").JSX.Element;

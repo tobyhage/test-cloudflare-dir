@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const trophyIcon: import("react").JSX.Element;

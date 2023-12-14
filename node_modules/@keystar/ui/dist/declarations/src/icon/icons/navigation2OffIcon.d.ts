@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const navigation2OffIcon: import("react").JSX.Element;

@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const crosshairIcon: import("react").JSX.Element;

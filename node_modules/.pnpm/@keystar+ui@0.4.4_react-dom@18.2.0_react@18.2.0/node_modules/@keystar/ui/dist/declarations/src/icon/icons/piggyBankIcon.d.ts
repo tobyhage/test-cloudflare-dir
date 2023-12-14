@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const piggyBankIcon: import("react").JSX.Element;

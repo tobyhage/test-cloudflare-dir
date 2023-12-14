@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const arrowDownToDotIcon: import("react").JSX.Element;

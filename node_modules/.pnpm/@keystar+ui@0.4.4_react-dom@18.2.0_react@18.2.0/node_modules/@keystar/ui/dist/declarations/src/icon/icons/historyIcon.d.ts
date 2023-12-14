@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const historyIcon: import("react").JSX.Element;

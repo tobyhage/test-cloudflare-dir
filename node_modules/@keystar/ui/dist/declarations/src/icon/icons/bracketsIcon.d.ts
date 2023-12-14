@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const bracketsIcon: import("react").JSX.Element;

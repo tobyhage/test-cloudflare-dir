@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const pipetteIcon: import("react").JSX.Element;

@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const swordsIcon: import("react").JSX.Element;

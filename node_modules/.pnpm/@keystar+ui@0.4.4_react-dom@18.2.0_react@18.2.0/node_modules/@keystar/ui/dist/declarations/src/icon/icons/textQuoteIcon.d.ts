@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const textQuoteIcon: import("react").JSX.Element;

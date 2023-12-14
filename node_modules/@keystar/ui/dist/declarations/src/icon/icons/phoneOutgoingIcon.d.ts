@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const phoneOutgoingIcon: import("react").JSX.Element;

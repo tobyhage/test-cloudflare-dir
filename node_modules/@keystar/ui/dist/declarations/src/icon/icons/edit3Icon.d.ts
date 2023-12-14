@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const edit3Icon: import("react").JSX.Element;

@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const searchIcon: import("react").JSX.Element;

@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const folderClockIcon: import("react").JSX.Element;

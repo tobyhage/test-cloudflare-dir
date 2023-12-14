@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const cakeSliceIcon: import("react").JSX.Element;

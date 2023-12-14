@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const layoutPanelLeftIcon: import("react").JSX.Element;

@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const lightbulbOffIcon: import("react").JSX.Element;

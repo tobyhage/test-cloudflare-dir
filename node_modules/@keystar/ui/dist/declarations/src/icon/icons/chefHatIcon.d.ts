@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const chefHatIcon: import("react").JSX.Element;

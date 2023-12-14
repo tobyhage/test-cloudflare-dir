@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const stepBackIcon: import("react").JSX.Element;

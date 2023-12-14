@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const plusSquareIcon: import("react").JSX.Element;

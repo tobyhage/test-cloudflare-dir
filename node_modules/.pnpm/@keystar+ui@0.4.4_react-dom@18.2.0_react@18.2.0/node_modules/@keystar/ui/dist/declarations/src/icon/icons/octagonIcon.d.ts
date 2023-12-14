@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const octagonIcon: import("react").JSX.Element;

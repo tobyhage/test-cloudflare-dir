@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const lollipopIcon: import("react").JSX.Element;

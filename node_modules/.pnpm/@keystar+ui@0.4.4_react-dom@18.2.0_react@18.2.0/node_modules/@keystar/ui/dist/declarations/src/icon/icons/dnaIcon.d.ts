@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const dnaIcon: import("react").JSX.Element;

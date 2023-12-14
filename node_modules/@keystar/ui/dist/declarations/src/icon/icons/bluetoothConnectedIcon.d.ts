@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const bluetoothConnectedIcon: import("react").JSX.Element;

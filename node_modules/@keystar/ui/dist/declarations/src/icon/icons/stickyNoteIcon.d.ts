@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const stickyNoteIcon: import("react").JSX.Element;

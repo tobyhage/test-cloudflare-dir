@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const cloudyIcon: import("react").JSX.Element;

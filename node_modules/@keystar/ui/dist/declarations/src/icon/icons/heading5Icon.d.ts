@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const heading5Icon: import("react").JSX.Element;

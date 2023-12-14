@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const calendarMinusIcon: import("react").JSX.Element;

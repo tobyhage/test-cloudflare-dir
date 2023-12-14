@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const helpingHandIcon: import("react").JSX.Element;

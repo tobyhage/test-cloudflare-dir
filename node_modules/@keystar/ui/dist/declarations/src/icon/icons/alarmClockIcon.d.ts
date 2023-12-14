@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const alarmClockIcon: import("react").JSX.Element;

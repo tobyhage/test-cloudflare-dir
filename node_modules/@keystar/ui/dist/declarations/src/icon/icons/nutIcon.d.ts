@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const nutIcon: import("react").JSX.Element;

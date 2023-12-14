@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const unplugIcon: import("react").JSX.Element;

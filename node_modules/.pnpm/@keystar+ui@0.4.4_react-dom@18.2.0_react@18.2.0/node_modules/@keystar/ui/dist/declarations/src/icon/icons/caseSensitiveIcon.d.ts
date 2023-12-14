@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const caseSensitiveIcon: import("react").JSX.Element;

@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const rockingChairIcon: import("react").JSX.Element;

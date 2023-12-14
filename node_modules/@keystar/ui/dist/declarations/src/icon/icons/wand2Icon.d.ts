@@ -1,2 +1,0 @@
-/// <reference types="react" />
-export declare const wand2Icon: import("react").JSX.Element;
