@@ -16,7 +16,7 @@ export default defineConfig({
     format: 'file',
   },
   adapter: cloudflare({
-    //mode: 'directory',
+    mode: 'directory', // mode advanced -> working!
     //functionPerRoute: true,
     imageService: 'passthrough',
   })
