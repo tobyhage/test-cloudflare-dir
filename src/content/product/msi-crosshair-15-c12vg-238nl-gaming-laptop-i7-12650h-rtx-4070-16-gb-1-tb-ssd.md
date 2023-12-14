@@ -1,0 +1,24 @@
+---
+"name": "MSI Crosshair 15 C12VG-238NL gaming laptop i7-12650H | RTX 4070 | 16 GB | 1 TB SSD"
+"brand": "MSI"
+"feed_url": "https://www.alternate.nl/tt/?tt=904_1594453_453806_&r=https%3A%2F%2Fwww.alternate.nl%2Fhtml%2Fproduct%2F1891891%3Futm_source%3Dtradetracker%26utm_medium%3Dcpc%26utm_campaign%3Dtradetracker_Gaminglaptop%26utm_term%3DPL6MZNCD"
+"price": 1599
+"currency": "EUR"
+"GTIN": "4711377044158"
+"supplier": "Alternate"
+"category": "Laptops"
+"bullet_points": ["Notebook Clamshell Zwart","Intel® Core™ i7 i7-12650H","39,6 cm (15.6\") Full HD 1920 x 1080 Pixels","16 GB DDR5-SDRAM 4800 MHz 2 x 8 GB","1 TB SSD","NVIDIA GeForce RTX 4070 8 GB Intel® UHD Graphics","Wi-Fi 6 (802.11ax) Ethernet LAN 10,100,1000 Mbit/s Bluetooth 5.2","53,5 Wh 240 W","Windows 11"]
+"features": {"screen_diagonal_inches":"39,6 cm (15.6\")","screen_resolution":"1920 x 1080 Pixels","processor_family":"Intel® Core™ i7","memory_size":"16 GB","memory_type":"DDR5-SDRAM","total_storage_space":"1 TB","graphics_card":"NVIDIA GeForce RTX 4070","graphics_memory_size":"8 GB","operating_system":"Windows 11","battery_capacity":"53,5 Wh","width":"359 mm","depth":"259 mm","height":"26,9 mm","weight":"2,3 kg","purpose_laptop":"Gaming"}
+"delivery_time": "Op werkdagen voor 22.00 besteld, morgen in huis!"
+"selection_group": {"processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"Crosshair"}
+"changed": "2023-11-30 07:10:52"
+"seo_header_title": "MSI Crosshair 15 C12VG-238NL gaming laptop i7-12650H | RTX 4070 | 16 GB | 1 TB SSD"
+"seo_meta_description": "MSI Crosshair 15 C12VG-238NL gaming laptop i7-12650H | RTX 4070 | 16 GB | 1 TB SSD"
+"seo_h1_title": "MSI Crosshair 15 C12VG-238NL gaming laptop i7-12650H | RTX 4070 | 16 GB | 1 TB SSD"
+"seo_short_description": "Klaar om het avontuur te beginnen? Richt je op de vijand met de Crosshair 15 C12VG-238NL met zijn superieure prestaties en coole uiterlijk, en verken de mysterieuze planeet van de fantasie! Met de 12e Intel Core i7-12650H processor biedt de Crosshair 15 C12V een ongekende boost in jouw multitasking projecten en prestaties van veeleisende games."
+"seo_long_description": "Dankzij de Hybrid Core Architecture presteert de 12e generatie tot 30% beter dan vorige generatie. NVIDIA GeForce RTX 40 Series GPU's zijn ongekend snel voor gamers en ontwerpers. Ze worden aangedreven door de ultra-efficiënte NVIDIA Ada Lovelace-architectuur die een kwantumsprong in zowel prestaties als AI-aangedreven graphics levert. Ervaar levensechte virtuele werelden met ray tracing en ultrahoge FPS-gaming met de laagste latentie. Ontdek revolutionaire nieuwe manieren om te creëren en ongekende workflowversnelling. Revolutionaire koeling voor next-gen gaming. Speciale oplossingen voor koeling van de CPU en GPU met maximaal vijf heat pipes. Door het vergroten van de interne diameter van de thermische pijp en het gebruik van MSI exclusief thermal grease worden maximale prestaties onder extreme gaming gegarandeerd. Het brede kleurbereik verlichte Spectrum Backlight Keyboard is geïnspireerd door de intense kleuren die gevonden worden in sci-fi thema gameplays. Het toetsenbord komt ook met gemarkeerde WASD-toetsen voor snellere en meer naadloze bewegingen in-game."
+"short_description": ""
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/msi-crosshair-15-c12vg-238nl-gaming-laptop-i7-12650h-rtx-4070-16-gb-1-tb-ssd.webp"
+---
+
+Klaar om het avontuur te beginnen? Richt je op de vijand met de Crosshair 15 C12VG-238NL met zijn superieure prestaties en coole uiterlijk, en verken de mysterieuze planeet van de fantasie! Met de 12e Intel Core i7-12650H processor biedt de Crosshair 15 C12V een ongekende boost in jouw multitasking projecten en prestaties van veeleisende games. Dankzij de Hybrid Core Architecture presteert de 12e generatie tot 30% beter dan vorige generatie. NVIDIA GeForce RTX 40 Series GPU's zijn ongekend snel voor gamers en ontwerpers. Ze worden aangedreven door de ultra-efficiënte NVIDIA Ada Lovelace-architectuur die een kwantumsprong in zowel prestaties als AI-aangedreven graphics levert. Ervaar levensechte virtuele werelden met ray tracing en ultrahoge FPS-gaming met de laagste latentie. Ontdek revolutionaire nieuwe manieren om te creëren en ongekende workflowversnelling. Revolutionaire koeling voor next-gen gaming. Speciale oplossingen voor koeling van de CPU en GPU met maximaal vijf heat pipes. Door het vergroten van de interne diameter van de thermische pijp en het gebruik van MSI exclusief thermal grease worden maximale prestaties onder extreme gaming gegarandeerd. Het brede kleurbereik verlichte Spectrum Backlight Keyboard is geïnspireerd door de intense kleuren die gevonden worden in sci-fi thema gameplays. Het toetsenbord komt ook met gemarkeerde WASD-toetsen voor snellere en meer naadloze bewegingen in-game.

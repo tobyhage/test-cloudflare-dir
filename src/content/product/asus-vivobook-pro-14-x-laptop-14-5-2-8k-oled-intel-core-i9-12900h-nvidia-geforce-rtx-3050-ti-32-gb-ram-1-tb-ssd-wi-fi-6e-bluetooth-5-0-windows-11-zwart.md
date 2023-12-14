@@ -1,0 +1,23 @@
+---
+"name": "ASUS Vivobook Pro 14 X - Laptop - 14.5\" 2.8K OLED - Intel Core i9-12900H - NVIDIA GeForce RTX 3050 Ti - 32 GB RAM - 1 TB SSD - Wi-Fi 6E, Bluetooth 5.0 - Windows 11 - Zilver"
+"brand": "Asus"
+"feed_url": "https://www.bol.com/nl/nl/p/asus-vivobook-pro-14-x-laptop-14-5-2-8k-oled-intel-core-i9-12900h-nvidia-geforce-rtx-3050-ti-32-gb-ram-1-tb-ssd-wi-fi-6e-bluetooth-5-0-windows-11-zwart/9300000129122137"
+"price": 1804.49
+"currency": "EUR"
+"GTIN": "4711081953043"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Prestaties Notebook Clamshell Zilver","Intel® Core™ i9 i9-12900H","36,8 cm (14.5\") 2.8K 2880 x 1800 Pixels OLED Glans 16:10","32 GB LPDDR5-SDRAM 2500 MHz","1 TB SSD","NVIDIA GeForce RTX 3050 Ti 4 GB Intel Iris Xe Graphics","Wi-Fi 6E (802.11ax) Bluetooth 5.0","Lithium-Ion (Li-Ion) 70 Wh 150 W","Windows 11 Home 64-bit"]
+"features": {"screen_diagonal_inches":"14.5 inch","screen_resolution":"2880 x 1800 Pixels","processor_family":"Intel® Core™ i9","memory_size":"32 GB","memory_type":"LPDDR5-SDRAM","total_storage_space":"1 TB","graphics_card":"Intel Iris Xe Graphics","graphics_memory_size":"4 GB","operating_system":"Windows","battery_capacity":"70 Wh","width":"322,8 mm","depth":"229,9 mm","height":"17,9 mm","weight":"1,2 kg"}
+"selection_group": {"screen_diagonal":"14 inch","processor":"Intel Core i9","changed_price_past_3_days":false,"product_family":"VivoBook"}
+"changed": "2023-12-13 07:26:08"
+"seo_header_title": "ASUS Vivobook Pro 14 X - Laptop - 14.5\" 2.8K OLED - Intel Core i9-12900H - NVIDIA GeForce RTX 3050 Ti - 32 GB RAM - 1 TB SSD - Wi-Fi 6E, Bluetooth 5.0 - Windows 11 - Zilver"
+"seo_meta_description": "ASUS Vivobook Pro 14 X - Laptop - 14.5\" 2.8K OLED - Intel Core i9-12900H - NVIDIA GeForce RTX 3050 Ti - 32 GB RAM - 1 TB SSD - Wi-Fi 6E, Bluetooth 5.0 - Windows 11 - Zilver"
+"seo_h1_title": "ASUS Vivobook Pro 14 X - Laptop - 14.5\" 2.8K OLED - Intel Core i9-12900H - NVIDIA GeForce RTX 3050 Ti - 32 GB RAM - 1 TB SSD - Wi-Fi 6E, Bluetooth 5.0 - Windows 11 - Zilver"
+"seo_short_description": "<p> Laat de compromisloze ASUS Vivobook Pro 14 X OLED uw creatieve power de vrije loop laten! U zult profiteren van moeiteloze prestaties van de 12e gen."
+"seo_long_description": "Intel Core i9-12900H processors en NVIDIA GeForce RTX 3050 Ti, zodat u uw ideeën sneller dan ooit kunt verwezenlijken. Het 14” 2. 8K 120Hz NanoEdge OLED-scherm is bovendien zeer aangenaam voor uw ogen, dankzij de levendige, nauwkeurige kleuren. Voor nauwkeurige en intuïtieve bediening van uw creatieve tools is er de exclusieve ASUS DialPad. U kunt in alle rust creëren dankzij het koelsysteem met dubbele ventilator, en de hoge capaciteit 70 Wh accu biedt betrouwbare stroom waar u op aan kunt voor contentcreatie, waar u ook bent. Geef uw creativiteit de power die het verdient met de ASUS Vivobook Pro 14 X OLED. </p>"
+"short_description": "Laat de compromisloze ASUS Vivobook Pro 14 X OLED uw creatieve power de vrije loop laten! U zult profiteren van moeiteloze prestaties van de 12e gen. Intel Core i9-12900H processors en NVIDIA GeForce RTX 3050 Ti, zodat u uw ideeën sneller dan ooit kunt verwezenlijken. Het 14” 2.8K 120Hz NanoEdge OLED-scherm is bovendien zeer aangenaam voor uw ogen, dankzij de levendige, nauwkeurige kleuren. Voor nauwkeurige en intuïtieve bediening van uw creatieve tools is er de exclusieve ASUS DialPad. U kunt in alle rust creëren dankzij het koelsysteem met dubbele ventilator, en de hoge capaciteit 70 Wh accu biedt betrouwbare stroom waar u op aan kunt voor contentcreatie, waar u ook bent. Geef uw creativiteit de power die het verdient met de ASUS Vivobook Pro 14 X OLED."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/asus-vivobook-pro-14-x-laptop-14-5-2-8k-oled-intel-core-i9-12900h-nvidia-geforce-rtx-3050-ti-32-gb-ram-1-tb-ssd-wi-fi-6e-bluetooth-5-0-windows-11-zwart.webp"
+---
+
+<p> Laat de compromisloze ASUS Vivobook Pro 14 X OLED uw creatieve power de vrije loop laten! U zult profiteren van moeiteloze prestaties van de 12e gen. Intel Core i9-12900H processors en NVIDIA GeForce RTX 3050 Ti, zodat u uw ideeën sneller dan ooit kunt verwezenlijken. Het 14” 2.8K 120Hz NanoEdge OLED-scherm is bovendien zeer aangenaam voor uw ogen, dankzij de levendige, nauwkeurige kleuren. Voor nauwkeurige en intuïtieve bediening van uw creatieve tools is er de exclusieve ASUS DialPad. U kunt in alle rust creëren dankzij het koelsysteem met dubbele ventilator, en de hoge capaciteit 70 Wh accu biedt betrouwbare stroom waar u op aan kunt voor contentcreatie, waar u ook bent. Geef uw creativiteit de power die het verdient met de ASUS Vivobook Pro 14 X OLED. </p>

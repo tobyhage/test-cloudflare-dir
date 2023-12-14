@@ -1,0 +1,62 @@
+---
+"name": "HP laptop 15-EH1432ND"
+"brand": "HP"
+"feed_url": "https://www.bol.com/nl/nl/p/hp-laptop-15-eh1432nd/9300000029171751"
+"price": 547.62
+"currency": "EUR"
+"GTIN": "0195908316053"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["15.6 inch","512 GB","16 GB","AMD Radeon Graphics"]
+"features": {"screen_diagonal_inches":"15.6 inch","total_storage_space":"512 GB","memory_size":"16 GB","graphics_card":"AMD Radeon Graphics"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"AMD Ryzen 5","changed_price_past_3_days":true}
+"historical_prices": [{"date":"2023-12-12","price":552.8},{"date":"2023-12-13","price":547.62}]
+"changed": "2023-12-13 07:26:11"
+"previous_price": 552.8
+"seo_header_title": "HP laptop 15-EH1432ND"
+"seo_meta_description": "HP laptop 15-EH1432ND"
+"seo_h1_title": "HP laptop 15-EH1432ND"
+"seo_short_description": "<h3>Elegant op het werk."
+"seo_long_description": "Praktisch in je vrije tijd</h3>\n<p> De Pavilion 15,6-inch laptop biedt meer kracht in een kleiner profiel, zodat je overal kunt werken. Geniet van de mooiste films, video's en games met een scherm met flinterdunne randen en geluid van B&O. </p>\n<h3>Optimale productiviteit</h3>\n<p> Kies qua performance voor het nieuwste van het nieuwste. Ga voor een HP Pavilion 15-eh1432nd laptop die je tempo bij kan houden met een hoogwaardige AMD-processor. </p>\n<h3>Krachtig en compact</h3>\n<p> Een compacte laptop met een Precision Touchpad is handig als je bijvoorbeeld op een dag op meerdere plekken werkt. Dankzij de krachtige accu met HP Fast Charge gaat de laptop een tijdje mee. </p>\n<h3>Een scherm waar je blij van wordt</h3>\n<p> Met geluid van B&O, een grotere screen-to-body-ratio en flinterdunne randen voor een optimaal beeld komen films, video's en muziek uitstekend tot hun recht. </p>\n<h3>Wi-Fi 5 (2x2) en Bluetooth® 5. 0 (802. 11a/b/g/n/ac)</h3>\n<p> Geen zorgen over wisselende internetdekking en zwakke verbindingen. Houd verbinding met wifi en met Bluetooth®-accessoires dankzij de nieuwste Wi-Fi 5 (2 x 2) WLAN-adapter en Bluetooth® 5. 0. </p>\n<h3>PCIe SSD opslag</h3>\n<p> Start in enkele seconden op met tot 512 GB PCIe SSD-opslag. </p>\n<h3>AMD Ryzen™ 5000 U-serie mobiele processoren</h3>\n<p> Als videobellen, surfen op het web, het maken van spreadsheets en presentaties voor jou de norm is, zijn apparaten met AMD Ryzen™ 5000-serie mobiele processoren helemaal geschikt voor jou. </p>\n<h3>Windows 10‏</h3>\n<p> Doe geweldige dingen met de vertrouwde Windows-interface, maar dan beter. Werk veiliger, productiever en persoonlijker met vooraf geïnstalleerde functionaliteit en uitbreidingen zoals Windows Hello en Cortana. </p>\n<h3>FHD IPS-display</h3>\n<p> Geniet van een kristalheldere weergave onder elke hoek. Met brede inkijkhoeken van 178° en een briljante 1920 x 1080 resolutie ziet je favoriete content er altijd schitterend uit. </p>\n<h3>HP Fast Charge</h3>\n<p> Als de batterij van je laptop bijna leeg is, wil je niet uren wachten tot die weer opgeladen is. Zet het apparaat uit en laad het in ongeveer 45 minuten op van 0 tot 50%. </p>\n<h3>HP Imagepad ondersteunt multi-touch bewegingen</h3>\n<p> Deze multi-touch touchpad ondersteunt bewegingen met vier vingers en laat je met een simpele aanraking scrollen, zoomen en navigeren. </p>\n<h3>Slim design</h3>\n<p> Bescherm je besturingssysteem met een gratis abonnement voor 30 dagen op McAfee® LiveSafe™. </p>\n<h3>Vingerafdruksensor</h3>\n<p> Ontgrendel je device eenvoudig in elke stand met behulp van je vinger. Gepatenteerde 3D-vingerafdruktechnologie zorgt voor veilige toegang en veilig online betalen. </p>\n<h3>DDR4 RAM</h3>\n<p> DDR4 is het RAM van de toekomst, dat is ontworpen om efficiënter en betrouwbaarder te werken bij hogere snelheden. Dankzij de hogere bandbreedte gaat alles stukken sneller, van multitasken tot gamen. </p>\n<h3>Verbonden in stand-bystand</h3>\n<p> Door het 88 graden brede gezichtsveld kun je videochatten met het hele gezin of een aantal vrienden en zie je elk detail haarscherp. </p>\n<h3>ExpressVPN</h3>\n<p> Verberg je IP-adres en versleutel je netwerkgegevens zodat niemand kan zien wat je doet. Beperk het risico om gehackt te worden, zelfs als je op een openbaar wifinetwerk zit. </p>\n<h3>Dropbox-opslag in de cloud</h3>\n<p> Bewaar en synchroniseer al je content online met Dropbox. Profiteer van 25 GB opslagruimte om overal waar internet is foto's, muziek en bestanden te openen, te beheren en te delen. </p>\n<h3>McAfee® LiveSafe™</h3>\n<p> Bescherm je besturingssysteem met een gratis abonnement voor 30 dagen op McAfee® LiveSafe™. </p>\n<h3>Backlit-toetsenbord met geïntegreerde numerieke toetsen</h3>\n<p> Ook in matig verlichte ruimtes en tijdens nachtvluchten kunt u blijven werken. Op het verlichte toetsenbord met geïntegreerde numerieke toetsen typ je prettig in meer omgevingen. </p>"
+"short_description": "Elegant op het werk. Praktisch in je vrije tijd De Pavilion 15,6-inch laptop biedt meer kracht in een kleiner profiel, zodat je overal kunt werken. Geniet van de mooiste films, video's en games met een scherm met flinterdunne randen en geluid van B&O. Optimale productiviteit Kies qua performance voor het nieuwste van het nieuwste. Ga voor een HP Pavilion 15-eh1432nd laptop die je tempo bij kan houden met een hoogwaardige AMD-processor. Krachtig en compact Een compacte laptop met een Precision Touchpad is handig als je bijvoorbeeld op een dag op meerdere plekken werkt. Dankzij de krachtige accu met HP Fast Charge gaat de laptop een tijdje mee. Een scherm waar je blij van wordt Met geluid van B&O, een grotere screen-to-body-ratio en flinterdunne randen voor een optimaal beeld komen films, video's en muziek uitstekend tot hun recht. Wi-Fi 5 (2x2) en Bluetooth® 5.0 (802.11a/b/g/n/ac) Geen zorgen over wisselende internetdekking en zwakke verbindingen. Houd verbinding met wifi en met Bluetooth®-accessoires dankzij de nieuwste Wi-Fi 5 (2 x 2) WLAN-adapter en Bluetooth® 5.0. PCIe SSD opslag Start in enkele seconden op met tot 512 GB PCIe SSD-opslag. AMD Ryzen™ 5000 U-serie mobiele processoren Als videobellen, surfen op het web, het maken van spreadsheets en presentaties voor jou de norm is, zijn apparaten met AMD Ryzen™ 5000-serie mobiele processoren helemaal geschikt voor jou. Windows 10‏ Doe geweldige dingen met de vertrouwde Windows-interface, maar dan beter. Werk veiliger, productiever en persoonlijker met vooraf geïnstalleerde functionaliteit en uitbreidingen zoals Windows Hello en Cortana. FHD IPS-display Geniet van een kristalheldere weergave onder elke hoek. Met brede inkijkhoeken van 178° en een briljante 1920 x 1080 resolutie ziet je favoriete content er altijd schitterend uit. HP Fast Charge Als de batterij van je laptop bijna leeg is, wil je niet uren wachten tot die weer opgeladen is. Zet het apparaat uit en laad het in ongeveer 45 minuten op van 0 tot 50%. HP Imagepad ondersteunt multi-touch bewegingen Deze multi-touch touchpad ondersteunt bewegingen met vier vingers en laat je met een simpele aanraking scrollen, zoomen en navigeren. Slim design Bescherm je besturingssysteem met een gratis abonnement voor 30 dagen op McAfee® LiveSafe™. Vingerafdruksensor Ontgrendel je device eenvoudig in elke stand met behulp van je vinger. Gepatenteerde 3D-vingerafdruktechnologie zorgt voor veilige toegang en veilig online betalen. DDR4 RAM DDR4 is het RAM van de toekomst, dat is ontworpen om efficiënter en betrouwbaarder te werken bij hogere snelheden. Dankzij de hogere bandbreedte gaat alles stukken sneller, van multitasken tot gamen. Verbonden in stand-bystand Door het 88 graden brede gezichtsveld kun je videochatten met het hele gezin of een aantal vrienden en zie je elk detail haarscherp. ExpressVPN Verberg je IP-adres en versleutel je netwerkgegevens zodat niemand kan zien wat je doet. Beperk het risico om gehackt te worden, zelfs als je op een openbaar wifinetwerk zit. Dropbox-opslag in de cloud Bewaar en synchroniseer al je content online met Dropbox. Profiteer van 25 GB opslagruimte om overal waar internet is foto's, muziek en bestanden te openen, te beheren en te delen. McAfee® LiveSafe™ Bescherm je besturingssysteem met een gratis abonnement voor 30 dagen op McAfee® LiveSafe™. Backlit-toetsenbord met geïntegreerde numerieke toetsen Ook in matig verlichte ruimtes en tijdens nachtvluchten kunt u blijven werken. Op het verlichte toetsenbord met geïntegreerde numerieke toetsen typ je prettig in meer omgevingen."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/hp-laptop-15-eh1432nd.webp"
+---
+
+<h3>Elegant op het werk. Praktisch in je vrije tijd</h3>
+<p> De Pavilion 15,6-inch laptop biedt meer kracht in een kleiner profiel, zodat je overal kunt werken. Geniet van de mooiste films, video's en games met een scherm met flinterdunne randen en geluid van B&O. </p>
+<h3>Optimale productiviteit</h3>
+<p> Kies qua performance voor het nieuwste van het nieuwste. Ga voor een HP Pavilion 15-eh1432nd laptop die je tempo bij kan houden met een hoogwaardige AMD-processor. </p>
+<h3>Krachtig en compact</h3>
+<p> Een compacte laptop met een Precision Touchpad is handig als je bijvoorbeeld op een dag op meerdere plekken werkt. Dankzij de krachtige accu met HP Fast Charge gaat de laptop een tijdje mee. </p>
+<h3>Een scherm waar je blij van wordt</h3>
+<p> Met geluid van B&O, een grotere screen-to-body-ratio en flinterdunne randen voor een optimaal beeld komen films, video's en muziek uitstekend tot hun recht. </p>
+<h3>Wi-Fi 5 (2x2) en Bluetooth® 5.0 (802.11a/b/g/n/ac)</h3>
+<p> Geen zorgen over wisselende internetdekking en zwakke verbindingen. Houd verbinding met wifi en met Bluetooth®-accessoires dankzij de nieuwste Wi-Fi 5 (2 x 2) WLAN-adapter en Bluetooth® 5.0. </p>
+<h3>PCIe SSD opslag</h3>
+<p> Start in enkele seconden op met tot 512 GB PCIe SSD-opslag. </p>
+<h3>AMD Ryzen™ 5000 U-serie mobiele processoren</h3>
+<p> Als videobellen, surfen op het web, het maken van spreadsheets en presentaties voor jou de norm is, zijn apparaten met AMD Ryzen™ 5000-serie mobiele processoren helemaal geschikt voor jou. </p>
+<h3>Windows 10‏</h3>
+<p> Doe geweldige dingen met de vertrouwde Windows-interface, maar dan beter. Werk veiliger, productiever en persoonlijker met vooraf geïnstalleerde functionaliteit en uitbreidingen zoals Windows Hello en Cortana. </p>
+<h3>FHD IPS-display</h3>
+<p> Geniet van een kristalheldere weergave onder elke hoek. Met brede inkijkhoeken van 178° en een briljante 1920 x 1080 resolutie ziet je favoriete content er altijd schitterend uit. </p>
+<h3>HP Fast Charge</h3>
+<p> Als de batterij van je laptop bijna leeg is, wil je niet uren wachten tot die weer opgeladen is. Zet het apparaat uit en laad het in ongeveer 45 minuten op van 0 tot 50%. </p>
+<h3>HP Imagepad ondersteunt multi-touch bewegingen</h3>
+<p> Deze multi-touch touchpad ondersteunt bewegingen met vier vingers en laat je met een simpele aanraking scrollen, zoomen en navigeren. </p>
+<h3>Slim design</h3>
+<p> Bescherm je besturingssysteem met een gratis abonnement voor 30 dagen op McAfee® LiveSafe™. </p>
+<h3>Vingerafdruksensor</h3>
+<p> Ontgrendel je device eenvoudig in elke stand met behulp van je vinger. Gepatenteerde 3D-vingerafdruktechnologie zorgt voor veilige toegang en veilig online betalen. </p>
+<h3>DDR4 RAM</h3>
+<p> DDR4 is het RAM van de toekomst, dat is ontworpen om efficiënter en betrouwbaarder te werken bij hogere snelheden. Dankzij de hogere bandbreedte gaat alles stukken sneller, van multitasken tot gamen. </p>
+<h3>Verbonden in stand-bystand</h3>
+<p> Door het 88 graden brede gezichtsveld kun je videochatten met het hele gezin of een aantal vrienden en zie je elk detail haarscherp. </p>
+<h3>ExpressVPN</h3>
+<p> Verberg je IP-adres en versleutel je netwerkgegevens zodat niemand kan zien wat je doet. Beperk het risico om gehackt te worden, zelfs als je op een openbaar wifinetwerk zit. </p>
+<h3>Dropbox-opslag in de cloud</h3>
+<p> Bewaar en synchroniseer al je content online met Dropbox. Profiteer van 25 GB opslagruimte om overal waar internet is foto's, muziek en bestanden te openen, te beheren en te delen. </p>
+<h3>McAfee® LiveSafe™</h3>
+<p> Bescherm je besturingssysteem met een gratis abonnement voor 30 dagen op McAfee® LiveSafe™. </p>
+<h3>Backlit-toetsenbord met geïntegreerde numerieke toetsen</h3>
+<p> Ook in matig verlichte ruimtes en tijdens nachtvluchten kunt u blijven werken. Op het verlichte toetsenbord met geïntegreerde numerieke toetsen typ je prettig in meer omgevingen. </p>

@@ -1,0 +1,46 @@
+---
+"name": "Lenovo IdeaPad 5 Pro 5800H Notebook 40,6 cm (16\") WQXGA AMD Ryzen™ 7 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Grijs"
+"brand": "Lenovo"
+"feed_url": "https://www.bol.com/nl/nl/p/lenovo-ideapad-5-pro-5800h-notebook-40-6-cm-wqxga-amd-ryzen-7-16-gb-ddr4-sdram-512-gb-ssd-wi-fi-6-windows-11-home-grijs/9300000074329886"
+"price": 1070
+"currency": "EUR"
+"GTIN": "0196379339893"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["16 inch","512 GB","16 GB","DDR4-SDRAM","AMD Radeon Graphics","Windows"]
+"features": {"screen_diagonal_inches":"16 inch","total_storage_space":"512 GB","memory_size":"16 GB","memory_type":"DDR4-SDRAM","graphics_card":"AMD Radeon Graphics","operating_system":"Windows"}
+"selection_group": {"screen_diagonal":"16 inch","processor":"AMD Ryzen 5","changed_price_past_3_days":false,"product_family":"Ideapad"}
+"changed": "2023-12-13 07:27:34"
+"seo_header_title": "Lenovo IdeaPad 5 Pro 5800H Notebook 40,6 cm (16\") WQXGA AMD Ryzen™ 7 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Grijs"
+"seo_meta_description": "Lenovo IdeaPad 5 Pro 5800H Notebook 40,6 cm (16\") WQXGA AMD Ryzen™ 7 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Grijs"
+"seo_h1_title": "Lenovo IdeaPad 5 Pro 5800H Notebook 40,6 cm (16\") WQXGA AMD Ryzen™ 7 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Grijs"
+"seo_short_description": "<b>Speel met een bredere horizon</b>\nMaak kennis met de IdeaPad 5 Pro Gen 6 (16\" AMD), de perfecte laptop voor streaming en entertainment met een schitterend beeldscherm van maximaal QHD."
+"seo_long_description": "Verwonder je over de enorme kracht van de krachtige AMD Ryzen™-processor en het 3D-geluid van Dolby Atmos® waar je helemaal in opgaat. Geniet van het verbeterde gevoel en de trefzekere toetsaanslag van het met grote precisie vervaardigde toetsenbord, met zacht geveerde toetsen en optionele achtergrondverlichting. \n\n<b>Geniet van explosieve kleuren</b>\nHet 2. 5k QHD-scherm van 350 nits van deze laptop is helder en levendig, met een 100% sRGB-kleurengamma. En de smalle randen geven het scherm een actieve schermverhouding van meer dan 90%, waardoor je niets mist. \n\n<b>Ongeremde prestaties</b>\nDe IdeaPad 5 Pro Gen 6 (16\" AMD) is een uitstekende keuze als je de nieuwste AAA-games wilt spelen of intensieve beelden moet renderen. Met maximaal een AMD Ryzen™ 9 mobiele processor, tot 32 GB DDR4-geheugen en een aparte NVIDIA® GeForce® GTX 1650 grafische kaart is deze computer supersnel. \n\n<b>Sneller opstarten en inloggen</b>\nKlap het scherm van je Ideapad 5 Pro open en je kunt meteen aan de slag. En dankzij de infraroodcamera met gezichtsherkenning ben je meteen ingelogd. \n\n<b>Korte oplaadtijd, lange batterijduur</b>\nDankzij de zeer lange batterijduur hoef je nooit meer op zoek naar een stopcontact. En als je toch een snelle boost nodig hebt, kun je met Rapid Charge Express weer drie uur door na slechts 15 minuten opladen. \n\n<b>Topprestaties. Compromisloze levensduur van de batterij. </b>\nZe zeggen dat hoge prestaties en een lange batterijduur tegelijk op een laptop niet mogelijk zijn. Ze zeggen dat een krachtige laptop groot, onhandig en zwaar moet zijn. Ze hebben het mis. Dankzij de nieuwe mobiele processors uit de AMD Ryzen™ 5000 H-serie kun je nu profiteren van topprestaties op een dunne en lichte laptop met een geweldige batterijduur. \n\n<b>Comfortabel, nauwkeurig typen</b>\nHet extra grote touchpad en de functiepijltoetsen van het toetsenbord verbeteren de ergonomie en nauwkeurigheid van de IdeaPad 5 Pro Gen 6, terwijl de zacht geveerde toetsen van 1,3 mm een beter voelbare respons geven. Maak het af met een optionele achtergrondverlichting. \n\n<b>Overdonderend geluid</b>\nGeniet van meeslepend geluid via twee luidsprekers met Dolby Atmos®. Je kunt geluiden in de game nauwkeuriger plaatsen en het geluid van je favoriete series en nummers nog meer waarderen. \nSpecificaties kunnen per regio/model verschillen."
+"short_description": "Speel met een bredere horizon Maak kennis met de IdeaPad 5 Pro Gen 6 (16\" AMD), de perfecte laptop voor streaming en entertainment met een schitterend beeldscherm van maximaal QHD. Verwonder je over de enorme kracht van de krachtige AMD Ryzen™-processor en het 3D-geluid van Dolby Atmos® waar je helemaal in opgaat. Geniet van het verbeterde gevoel en de trefzekere toetsaanslag van het met grote precisie vervaardigde toetsenbord, met zacht geveerde toetsen en optionele achtergrondverlichting. Geniet van explosieve kleuren Het 2.5k QHD-scherm van 350 nits van deze laptop is helder en levendig, met een 100% sRGB-kleurengamma. En de smalle randen geven het scherm een actieve schermverhouding van meer dan 90%, waardoor je niets mist. Ongeremde prestaties De IdeaPad 5 Pro Gen 6 (16\" AMD) is een uitstekende keuze als je de nieuwste AAA-games wilt spelen of intensieve beelden moet renderen. Met maximaal een AMD Ryzen™ 9 mobiele processor, tot 32 GB DDR4-geheugen en een aparte NVIDIA® GeForce® GTX 1650 grafische kaart is deze computer supersnel. Sneller opstarten en inloggen Klap het scherm van je Ideapad 5 Pro open en je kunt meteen aan de slag. En dankzij de infraroodcamera met gezichtsherkenning ben je meteen ingelogd. Korte oplaadtijd, lange batterijduur Dankzij de zeer lange batterijduur hoef je nooit meer op zoek naar een stopcontact. En als je toch een snelle boost nodig hebt, kun je met Rapid Charge Express weer drie uur door na slechts 15 minuten opladen. Topprestaties. Compromisloze levensduur van de batterij. Ze zeggen dat hoge prestaties en een lange batterijduur tegelijk op een laptop niet mogelijk zijn. Ze zeggen dat een krachtige laptop groot, onhandig en zwaar moet zijn. Ze hebben het mis. Dankzij de nieuwe mobiele processors uit de AMD Ryzen™ 5000 H-serie kun je nu profiteren van topprestaties op een dunne en lichte laptop met een geweldige batterijduur. Comfortabel, nauwkeurig typen Het extra grote touchpad en de functiepijltoetsen van het toetsenbord verbeteren de ergonomie en nauwkeurigheid van de IdeaPad 5 Pro Gen 6, terwijl de zacht geveerde toetsen van 1,3 mm een beter voelbare respons geven. Maak het af met een optionele achtergrondverlichting. Overdonderend geluid Geniet van meeslepend geluid via twee luidsprekers met Dolby Atmos®. Je kunt geluiden in de game nauwkeuriger plaatsen en het geluid van je favoriete series en nummers nog meer waarderen. Specificaties kunnen per regio/model verschillen."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/lenovo-ideapad-5-pro-5800h-notebook-40-6-cm-wqxga-amd-ryzen-7-16-gb-ddr4-sdram-512-gb-ssd-wi-fi-6-windows-11-home-grijs.webp"
+---
+
+<b>Speel met een bredere horizon</b>
+Maak kennis met de IdeaPad 5 Pro Gen 6 (16" AMD), de perfecte laptop voor streaming en entertainment met een schitterend beeldscherm van maximaal QHD. Verwonder je over de enorme kracht van de krachtige AMD Ryzen™-processor en het 3D-geluid van Dolby Atmos® waar je helemaal in opgaat. Geniet van het verbeterde gevoel en de trefzekere toetsaanslag van het met grote precisie vervaardigde toetsenbord, met zacht geveerde toetsen en optionele achtergrondverlichting.
+
+<b>Geniet van explosieve kleuren</b>
+Het 2.5k QHD-scherm van 350 nits van deze laptop is helder en levendig, met een 100% sRGB-kleurengamma. En de smalle randen geven het scherm een actieve schermverhouding van meer dan 90%, waardoor je niets mist.
+
+<b>Ongeremde prestaties</b>
+De IdeaPad 5 Pro Gen 6 (16" AMD) is een uitstekende keuze als je de nieuwste AAA-games wilt spelen of intensieve beelden moet renderen. Met maximaal een AMD Ryzen™ 9 mobiele processor, tot 32 GB DDR4-geheugen en een aparte NVIDIA® GeForce® GTX 1650 grafische kaart is deze computer supersnel.
+
+<b>Sneller opstarten en inloggen</b>
+Klap het scherm van je Ideapad 5 Pro open en je kunt meteen aan de slag. En dankzij de infraroodcamera met gezichtsherkenning ben je meteen ingelogd.
+
+<b>Korte oplaadtijd, lange batterijduur</b>
+Dankzij de zeer lange batterijduur hoef je nooit meer op zoek naar een stopcontact. En als je toch een snelle boost nodig hebt, kun je met Rapid Charge Express weer drie uur door na slechts 15 minuten opladen.
+
+<b>Topprestaties. Compromisloze levensduur van de batterij.</b>
+Ze zeggen dat hoge prestaties en een lange batterijduur tegelijk op een laptop niet mogelijk zijn. Ze zeggen dat een krachtige laptop groot, onhandig en zwaar moet zijn. Ze hebben het mis. Dankzij de nieuwe mobiele processors uit de AMD Ryzen™ 5000 H-serie kun je nu profiteren van topprestaties op een dunne en lichte laptop met een geweldige batterijduur.
+
+<b>Comfortabel, nauwkeurig typen</b>
+Het extra grote touchpad en de functiepijltoetsen van het toetsenbord verbeteren de ergonomie en nauwkeurigheid van de IdeaPad 5 Pro Gen 6, terwijl de zacht geveerde toetsen van 1,3 mm een beter voelbare respons geven. Maak het af met een optionele achtergrondverlichting.
+
+<b>Overdonderend geluid</b>
+Geniet van meeslepend geluid via twee luidsprekers met Dolby Atmos®. Je kunt geluiden in de game nauwkeuriger plaatsen en het geluid van je favoriete series en nummers nog meer waarderen.
+Specificaties kunnen per regio/model verschillen.

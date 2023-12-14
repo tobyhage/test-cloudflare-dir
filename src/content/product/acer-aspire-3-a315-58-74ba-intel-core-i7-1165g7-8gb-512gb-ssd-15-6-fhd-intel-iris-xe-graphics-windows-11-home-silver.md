@@ -1,0 +1,23 @@
+---
+"name": "Acer Aspire 3 A315-58-74BA - Intel Core i7-1165G7 - 8GB - 512GB SSD - 15.6\" FHD - Intel Iris Xe Graphics - Windows 11 Home - Silver"
+"brand": "Acer"
+"feed_url": "https://www.bol.com/nl/nl/p/acer-aspire-3-a315-58-74ba-intel-core-i7-1165g7-8gb-512gb-ssd-15-6-fhd-intel-iris-xe-graphics-windows-11-home-silver/9300000069034030"
+"price": 759
+"currency": "EUR"
+"GTIN": "4710886948728"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["15.6 inch","512 GB","8 GB","Intel Iris Xe Graphics","Windows"]
+"features": {"screen_diagonal_inches":"15.6 inch","total_storage_space":"512 GB","memory_size":"8 GB","graphics_card":"Intel Iris Xe Graphics","operating_system":"Windows"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"Aspire 3"}
+"changed": "2023-12-13 07:26:52"
+"seo_header_title": "Acer Aspire 3 A315-58-74BA - Intel Core i7-1165G7 - 8GB - 512GB SSD - 15.6\" FHD - Intel Iris Xe Graphics - Windows 11 Home - Silver"
+"seo_meta_description": "Acer Aspire 3 A315-58-74BA - Intel Core i7-1165G7 - 8GB - 512GB SSD - 15.6\" FHD - Intel Iris Xe Graphics - Windows 11 Home - Silver"
+"seo_h1_title": "Acer Aspire 3 A315-58-74BA - Intel Core i7-1165G7 - 8GB - 512GB SSD - 15.6\" FHD - Intel Iris Xe Graphics - Windows 11 Home - Silver"
+"seo_short_description": "Met de nieuwste Intel processor houd je gemakkelijk het overzicht en kun je je apps probleemloos blijven gebruiken, of je nu thuis, op school of op het werk bent."
+"seo_long_description": "<br /><br />Krachtig en productief<br /><br />Voor betere prestaties maakt de Aspire 3 gebruik van de nieuwste Intel processoren en tot wel 8 GB werkgeheugen. <br />Deze laptop is krachtig genoeg om elke werkdag aan te kunnen. Werken of ontspannen – het kan allemaal met krachtige productiviteit. <br /><br />Kleurrijk scherm<br /><br />Geniet van adembenemende afbeeldingen en video's dankzij het Full HD-scherm met een smalle rand, waardoor je nog meer ziet. <br />Bovendien is het voorzien van Acer BlueLightShield™, dat je ogen beschermt tegen schadelijk blauw licht. <br /><br />Blijf verbonden<br />Je beschikt over een scala aan connectiviteitsopties, zodat je altijd toegang hebt tot de meest actuele informatie. WiFi 5 (802. 11ac) zorgt voor snel internet. <br />De camera en microfoons van deze laptop zijn bovendien geoptimaliseerd voor betere videogesprekken."
+"short_description": "Met de nieuwste Intel processor houd je gemakkelijk het overzicht en kun je je apps probleemloos blijven gebruiken, of je nu thuis, op school of op het werk bent. Krachtig en productief Voor betere prestaties maakt de Aspire 3 gebruik van de nieuwste Intel processoren en tot wel 8 GB werkgeheugen. Deze laptop is krachtig genoeg om elke werkdag aan te kunnen. Werken of ontspannen – het kan allemaal met krachtige productiviteit. Kleurrijk scherm Geniet van adembenemende afbeeldingen en video's dankzij het Full HD-scherm met een smalle rand, waardoor je nog meer ziet. Bovendien is het voorzien van Acer BlueLightShield™, dat je ogen beschermt tegen schadelijk blauw licht. Blijf verbonden Je beschikt over een scala aan connectiviteitsopties, zodat je altijd toegang hebt tot de meest actuele informatie. WiFi 5 (802.11ac) zorgt voor snel internet. De camera en microfoons van deze laptop zijn bovendien geoptimaliseerd voor betere videogesprekken."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/acer-aspire-3-a315-58-74ba-intel-core-i7-1165g7-8gb-512gb-ssd-15-6-fhd-intel-iris-xe-graphics-windows-11-home-silver.webp"
+---
+
+Met de nieuwste Intel processor houd je gemakkelijk het overzicht en kun je je apps probleemloos blijven gebruiken, of je nu thuis, op school of op het werk bent.<br /><br />Krachtig en productief<br /><br />Voor betere prestaties maakt de Aspire 3 gebruik van de nieuwste Intel processoren en tot wel 8 GB werkgeheugen. <br />Deze laptop is krachtig genoeg om elke werkdag aan te kunnen. Werken of ontspannen – het kan allemaal met krachtige productiviteit.<br /><br />Kleurrijk scherm<br /><br />Geniet van adembenemende afbeeldingen en video's dankzij het Full HD-scherm met een smalle rand, waardoor je nog meer ziet. <br />Bovendien is het voorzien van Acer BlueLightShield™, dat je ogen beschermt tegen schadelijk blauw licht.<br /><br />Blijf verbonden<br />Je beschikt over een scala aan connectiviteitsopties, zodat je altijd toegang hebt tot de meest actuele informatie. WiFi 5 (802.11ac) zorgt voor snel internet. <br />De camera en microfoons van deze laptop zijn bovendien geoptimaliseerd voor betere videogesprekken.

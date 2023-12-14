@@ -1,0 +1,23 @@
+---
+"name": "HP ProBook 455 G10 - 853G1ES#ABH"
+"brand": "HP"
+"feed_url": "https://www.bol.com/nl/nl/p/hp-probook-455-g10-853g1es-abh/9300000151933447"
+"price": 989
+"currency": "EUR"
+"GTIN": "0197497715507"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["15.6 inch","512 GB","32 GB","AMD Radeon Graphics"]
+"features": {"screen_diagonal_inches":"15.6 inch","total_storage_space":"512 GB","memory_size":"32 GB","graphics_card":"AMD Radeon Graphics"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"AMD Ryzen 7","changed_price_past_3_days":false,"product_family":"Probook"}
+"changed": "2023-12-13 07:26:45"
+"seo_header_title": "HP ProBook 455 G10 - 853G1ES#ABH"
+"seo_meta_description": "HP ProBook 455 G10 - 853G1ES#ABH"
+"seo_h1_title": "HP ProBook 455 G10 - 853G1ES#ABH"
+"seo_short_description": "Ontdek de HP ProBook 455 G10 - waar krachtige prestaties en verfijnde stijl samenkomen."
+"seo_long_description": "Deze notebook, met zijn elegante clamshell-design en zilveren afwerking, is niet alleen een lust voor het oog, maar ook een krachtpatser onder de motorkap. <br /> Met de geavanceerde AMD Ryzen 7-processor, kloksnelheid van 2 GHz en een 15. 6-inch Full HD-display met een verbluffende resolutie van 1920 x 1080 pixels, biedt de ProBook 455 G10 een meeslepende gebruikerservaring voor werk en entertainment. <br /> Dankzij het snelle DDR4-SDRAM intern geheugen en de royale 512 GB SSD-opslagcapaciteit geniet je van vlekkeloze multitasking en razendsnelle toegang tot al je bestanden. Het AMD Radeon Graphics systeem levert verbluffende visuele prestaties, waardoor elk beeld tot leven komt op het scherm. <br /> Met Windows 11 Home als inclusief besturingssysteem ben je verzekerd van een intuïtieve en geavanceerde gebruikersinterface. Of je nu onderweg bent of op kantoor, het lichte gewicht van 1,74 kg maakt de ProBook 455 G10 de ideale reisgenoot. <br /> Upgrade jouw productiviteit en maak een stijlvol statement met de HP ProBook 455 G10 - de perfecte combinatie van kracht, elegantie en mobiliteit. Ervaar het zelf en betreed een wereld van ongekende mogelijkheden."
+"short_description": "Ontdek de HP ProBook 455 G10 - waar krachtige prestaties en verfijnde stijl samenkomen. Deze notebook, met zijn elegante clamshell-design en zilveren afwerking, is niet alleen een lust voor het oog, maar ook een krachtpatser onder de motorkap. Met de geavanceerde AMD Ryzen 7-processor, kloksnelheid van 2 GHz en een 15.6-inch Full HD-display met een verbluffende resolutie van 1920 x 1080 pixels, biedt de ProBook 455 G10 een meeslepende gebruikerservaring voor werk en entertainment. Dankzij het snelle DDR4-SDRAM intern geheugen en de royale 512 GB SSD-opslagcapaciteit geniet je van vlekkeloze multitasking en razendsnelle toegang tot al je bestanden. Het AMD Radeon Graphics systeem levert verbluffende visuele prestaties, waardoor elk beeld tot leven komt op het scherm. Met Windows 11 Home als inclusief besturingssysteem ben je verzekerd van een intuïtieve en geavanceerde gebruikersinterface. Of je nu onderweg bent of op kantoor, het lichte gewicht van 1,74 kg maakt de ProBook 455 G10 de ideale reisgenoot. Upgrade jouw productiviteit en maak een stijlvol statement met de HP ProBook 455 G10 - de perfecte combinatie van kracht, elegantie en mobiliteit. Ervaar het zelf en betreed een wereld van ongekende mogelijkheden."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/hp-probook-455-g10-853g1es-abh.webp"
+---
+
+Ontdek de HP ProBook 455 G10 - waar krachtige prestaties en verfijnde stijl samenkomen. Deze notebook, met zijn elegante clamshell-design en zilveren afwerking, is niet alleen een lust voor het oog, maar ook een krachtpatser onder de motorkap. <br /> Met de geavanceerde AMD Ryzen 7-processor, kloksnelheid van 2 GHz en een 15.6-inch Full HD-display met een verbluffende resolutie van 1920 x 1080 pixels, biedt de ProBook 455 G10 een meeslepende gebruikerservaring voor werk en entertainment. <br /> Dankzij het snelle DDR4-SDRAM intern geheugen en de royale 512 GB SSD-opslagcapaciteit geniet je van vlekkeloze multitasking en razendsnelle toegang tot al je bestanden. Het AMD Radeon Graphics systeem levert verbluffende visuele prestaties, waardoor elk beeld tot leven komt op het scherm. <br /> Met Windows 11 Home als inclusief besturingssysteem ben je verzekerd van een intuïtieve en geavanceerde gebruikersinterface. Of je nu onderweg bent of op kantoor, het lichte gewicht van 1,74 kg maakt de ProBook 455 G10 de ideale reisgenoot. <br /> Upgrade jouw productiviteit en maak een stijlvol statement met de HP ProBook 455 G10 - de perfecte combinatie van kracht, elegantie en mobiliteit. Ervaar het zelf en betreed een wereld van ongekende mogelijkheden.

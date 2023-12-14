@@ -1,0 +1,23 @@
+---
+"name": "ASUS VivoBook Pro 14X OLED N7400PC-KM010W i7-11370H Notebook 35,6 cm (14\") Intel® Core™ i7 16 GB DDR4-SDRAM 1000 GB SSD NVIDIA GeForce RTX 3050 Wi-Fi 6 (802.11ax) Windows 11 Home Zilver"
+"brand": "Asus"
+"feed_url": "https://www.bol.com/nl/nl/p/asus-vivobook-pro-14x-oled-n7400pc-km010w-i7-11370h-notebook-35-6-cm-intel-core-i7-16-gb-ddr4-sdram-1000-gb-ssd-nvidia-geforce-rtx-3050-wi-fi-6-windows-11-home-zilver/9300000055734270"
+"price": 1610
+"currency": "EUR"
+"GTIN": "4711081391715"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Thuis Laptop Clamshell Zilver","Intel® Core™ i7 i7-11370H","35,6 cm (14\") 2.8K 2880 x 1800 Pixels OLED Glans 16:10","16 GB DDR4-SDRAM","1 TB SSD","NVIDIA GeForce RTX 3050 4 GB Intel Iris Xe Graphics","Wi-Fi 6 (802.11ax) Bluetooth 5.0","Lithium-Ion (Li-Ion) 63 Wh 120 W","Windows 11 Home 64-bit"]
+"features": {"screen_diagonal_inches":"14 inch","screen_resolution":"2880 x 1800 Pixels","processor_family":"Intel® Core™ i7","memory_size":"16 GB","memory_type":"DDR4-SDRAM","total_storage_space":"1 TB","graphics_card":"Intel Iris Xe Graphics","graphics_memory_size":"4 GB","operating_system":"Windows","battery_capacity":"63 Wh","width":"317,4 mm","depth":"228,5 mm","height":"17,9 mm","weight":"1,45 kg"}
+"selection_group": {"screen_diagonal":"14 inch","processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"VivoBook"}
+"changed": "2023-12-13 07:26:32"
+"seo_header_title": "ASUS VivoBook Pro 14X OLED N7400PC-KM010W i7-11370H Notebook 35,6 cm (14\") Intel® Core™ i7 16 GB DDR4-SDRAM 1000 GB SSD NVIDIA GeForce RTX 3050 Wi-Fi 6 (802.11ax) Windows 11 Home Zilver"
+"seo_meta_description": "ASUS VivoBook Pro 14X OLED N7400PC-KM010W i7-11370H Notebook 35,6 cm (14\") Intel® Core™ i7 16 GB DDR4-SDRAM 1000 GB SSD NVIDIA GeForce RTX 3050 Wi-Fi 6 (802.11ax) Windows 11 Home Zilver"
+"seo_h1_title": "ASUS VivoBook Pro 14X OLED N7400PC-KM010W i7-11370H Notebook 35,6 cm (14\") Intel® Core™ i7 16 GB DDR4-SDRAM 1000 GB SSD NVIDIA GeForce RTX 3050 Wi-Fi 6 (802.11ax) Windows 11 Home Zilver"
+"seo_short_description": "De Asus Vivobook Pro 14X N7400PC-KM010W is een 14 inch gaming laptop waarop je games speelt en multitaskt tussen veeleisende programma's."
+"seo_long_description": "Met de NVIDIA GeForce RTX 3050 videokaart speel je Call of Duty op de hoogste instellingen. Met een Intel Core i7 processor en 16 gigabyte werkgeheugen, livestream je gameplay via Twitch en draai je grafische programma's zoals Adobe Premiere Pro. Zet al je creaties en bestanden op de snelle 1 terabyte SSD schijf. Je ziet elk detail en alle kleuren natuurgetrouw door het OLED beeldscherm met een resolutie van 2. 880 bij 1. 800. Verder heeft de Vivobook Pro toetsenbordverlichting, waardoor je zelfs in het donker de juiste toetsen vindt."
+"short_description": "De Asus Vivobook Pro 14X N7400PC-KM010W is een 14 inch gaming laptop waarop je games speelt en multitaskt tussen veeleisende programma's. Met de NVIDIA GeForce RTX 3050 videokaart speel je Call of Duty op de hoogste instellingen. Met een Intel Core i7 processor en 16 gigabyte werkgeheugen, livestream je gameplay via Twitch en draai je grafische programma's zoals Adobe Premiere Pro. Zet al je creaties en bestanden op de snelle 1 terabyte SSD schijf. Je ziet elk detail en alle kleuren natuurgetrouw door het OLED beeldscherm met een resolutie van 2.880 bij 1.800. Verder heeft de Vivobook Pro toetsenbordverlichting, waardoor je zelfs in het donker de juiste toetsen vindt."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/asus-vivobook-pro-14x-oled-n7400pc-km010w-i7-11370h-notebook-35-6-cm-intel-core-i7-16-gb-ddr4-sdram-1000-gb-ssd-nvidia-geforce-rtx-3050-wi-fi-6-windows-11-home-zilver.webp"
+---
+
+De Asus Vivobook Pro 14X N7400PC-KM010W is een 14 inch gaming laptop waarop je games speelt en multitaskt tussen veeleisende programma's. Met de NVIDIA GeForce RTX 3050 videokaart speel je Call of Duty op de hoogste instellingen. Met een Intel Core i7 processor en 16 gigabyte werkgeheugen, livestream je gameplay via Twitch en draai je grafische programma's zoals Adobe Premiere Pro. Zet al je creaties en bestanden op de snelle 1 terabyte SSD schijf. Je ziet elk detail en alle kleuren natuurgetrouw door het OLED beeldscherm met een resolutie van 2.880 bij 1.800. Verder heeft de Vivobook Pro toetsenbordverlichting, waardoor je zelfs in het donker de juiste toetsen vindt.

@@ -1,0 +1,23 @@
+---
+"name": "HP Zbook Firefly G9 WUXGA - i7-1255u - 16GB - 512GB - T550"
+"brand": "HP"
+"feed_url": "https://www.bol.com/nl/nl/p/hp-zbook-firefly-16-g9-i7-1255u-mobiel-werkstation-40-6-cm-wuxga-intel-core-i7-16-gb-ddr5-sdram-512-gb-ssd-nvidia-quadro-t500-wi-fi-6e-windows-10-pro-zilver/9300000105068913"
+"price": 1999
+"currency": "EUR"
+"GTIN": "0196786464188"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["16 inch","512 GB","16 GB","WUXGA"]
+"features": {"screen_diagonal_inches":"16 inch","total_storage_space":"512 GB","memory_size":"16 GB","graphics":"WUXGA"}
+"selection_group": {"screen_diagonal":"16 inch","processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"Zbook"}
+"changed": "2023-12-13 07:26:49"
+"seo_header_title": "HP Zbook Firefly G9 WUXGA - i7-1255u - 16GB - 512GB - T550"
+"seo_meta_description": "HP Zbook Firefly G9 WUXGA - i7-1255u - 16GB - 512GB - T550"
+"seo_h1_title": "HP Zbook Firefly G9 WUXGA - i7-1255u - 16GB - 512GB - T550"
+"seo_short_description": "<p> De HP ZBook Firefly 16 G9 - 6B8D7EA is een 16 inch zakelijke laptop, geschikt voor videobewerking en industrieel ontwerpen."
+"seo_long_description": "Het lage halogeen gehalte in de laptop maakt deze HP een duurzame keuze. Daarnaast is er voor de speakerbehuizing en de verpakking gerecycled materiaal gebruikt. Je neemt de ZBook Firefly door het compacte formaat en het gewicht van 1,47 kilogram gemakkelijk met je mee. Foto's en video's bewerk je in zware programma's als Premiere Pro dankzij de 12e generatie Intel Core i7 processor en het 16 gigabyte DDR5 werkgeheugen. Je bewerkt bovendien 2D en 3D objecten in software als AutoCAD, door de NVIDIA Quadro T500 videokaart. Over je privacy maak jij je met deze Probook geen zorgen. Inloggen doe je namelijk veilig en snel via de vingerafdrukscanner en je camera scherm je gerust af met het webcam schuifje. Ook maak je met Windows 10 Pro op afstand verbinding met de systemen op kantoor en zijn je bestanden beter beveiligd. Per ongeluk over je toetsenbord gemorst? Geen zorgen, de laptop is morsbestendig. </p>"
+"short_description": "De HP ZBook Firefly 16 G9 - 6B8D7EA is een 16 inch zakelijke laptop, geschikt voor videobewerking en industrieel ontwerpen. Het lage halogeen gehalte in de laptop maakt deze HP een duurzame keuze. Daarnaast is er voor de speakerbehuizing en de verpakking gerecycled materiaal gebruikt. Je neemt de ZBook Firefly door het compacte formaat en het gewicht van 1,47 kilogram gemakkelijk met je mee. Foto's en video's bewerk je in zware programma's als Premiere Pro dankzij de 12e generatie Intel Core i7 processor en het 16 gigabyte DDR5 werkgeheugen. Je bewerkt bovendien 2D en 3D objecten in software als AutoCAD, door de NVIDIA Quadro T500 videokaart. Over je privacy maak jij je met deze Probook geen zorgen. Inloggen doe je namelijk veilig en snel via de vingerafdrukscanner en je camera scherm je gerust af met het webcam schuifje. Ook maak je met Windows 10 Pro op afstand verbinding met de systemen op kantoor en zijn je bestanden beter beveiligd. Per ongeluk over je toetsenbord gemorst? Geen zorgen, de laptop is morsbestendig."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/hp-zbook-firefly-16-g9-i7-1255u-mobiel-werkstation-40-6-cm-wuxga-intel-core-i7-16-gb-ddr5-sdram-512-gb-ssd-nvidia-quadro-t500-wi-fi-6e-windows-10-pro-zilver.webp"
+---
+
+<p> De HP ZBook Firefly 16 G9 - 6B8D7EA is een 16 inch zakelijke laptop, geschikt voor videobewerking en industrieel ontwerpen. Het lage halogeen gehalte in de laptop maakt deze HP een duurzame keuze. Daarnaast is er voor de speakerbehuizing en de verpakking gerecycled materiaal gebruikt. Je neemt de ZBook Firefly door het compacte formaat en het gewicht van 1,47 kilogram gemakkelijk met je mee. Foto's en video's bewerk je in zware programma's als Premiere Pro dankzij de 12e generatie Intel Core i7 processor en het 16 gigabyte DDR5 werkgeheugen. Je bewerkt bovendien 2D en 3D objecten in software als AutoCAD, door de NVIDIA Quadro T500 videokaart. Over je privacy maak jij je met deze Probook geen zorgen. Inloggen doe je namelijk veilig en snel via de vingerafdrukscanner en je camera scherm je gerust af met het webcam schuifje. Ook maak je met Windows 10 Pro op afstand verbinding met de systemen op kantoor en zijn je bestanden beter beveiligd. Per ongeluk over je toetsenbord gemorst? Geen zorgen, de laptop is morsbestendig. </p>

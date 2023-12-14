@@ -1,0 +1,44 @@
+---
+"name": "ASUS ZenBook 17 Fold OLED UX9702AA-MD018W - 2-in-1 Laptop - 17.3 inch"
+"brand": "Asus"
+"feed_url": "https://www.bol.com/nl/nl/p/asus-zenbook-17-fold-oled-ux9702aa-md018w-2-in-1-laptop-17-3-inch/9300000089845273"
+"price": 2749
+"currency": "EUR"
+"GTIN": "4711081778219"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Thuis Hybride (2-in-1) Clamshell Zwart","Intel® Core™ i7 i7-1250U","Touchscreen 43,9 cm (17.3\") 2560 x 1920 Pixels OLED Glans 4:3","16 GB LPDDR5-SDRAM","1 TB SSD","Intel Iris Xe Graphics","Wi-Fi 6E (802.11ax) Bluetooth 5.2","Lithium-Ion (Li-Ion) 75 Wh 65 W","Windows 11 Home 64-bit"]
+"features": {"screen_diagonal_inches":"17.3 inch","screen_resolution":"2560 x 1920 Pixels","processor_family":"Intel® Core™ i7","memory_size":"16 GB","memory_type":"LPDDR5-SDRAM","total_storage_space":"1 TB","operating_system":"Windows 11 Home","battery_capacity":"75 Wh","width":"378,5 mm","depth":"287,6 mm","weight":"1,5 kg","graphics_card":"Intel Iris Xe Graphics","purpose_laptop":"2-in-1"}
+"selection_group": {"screen_diagonal":"17 inch","processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"ZenBook"}
+"changed": "2023-12-13 07:25:30"
+"seo_header_title": "ASUS ZenBook 17 Fold OLED UX9702AA-MD018W - 2-in-1 Laptop - 17.3 inch"
+"seo_meta_description": "ASUS ZenBook 17 Fold OLED UX9702AA-MD018W - 2-in-1 Laptop - 17.3 inch"
+"seo_h1_title": "ASUS ZenBook 17 Fold OLED UX9702AA-MD018W - 2-in-1 Laptop - 17.3 inch"
+"seo_short_description": "<p> De <strong>ASUS Zenbook 17 Fold OLED UX9702AA-MD018W </strong>leidt de wereld met zijn verbazingwekkende 17."
+"seo_long_description": "3 inch Foldable OLED touchscreen dat in een handomdraai kan worden ingeklapt tot een compact 12. 5 inch formaat. Dit maakt het kleiner dan een vel kopieerpapier zodat het gemakkelijk mee kan worden genomen.  </p>\n<p> <strong>Onze specialist adviseert deze laptop voor:</strong> </p>\n<ul>\n<li>Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking. </li>\n<li>Studie: verslagen uitwerken in Word en presentaties maken in Powerpoint. </li>\n<li>Films en series kijken in Full HD: het scherm kent een hoge beeldkwaliteit voor het bekijken van jouw films en series. </li>\n<li>Fotobewerking: de processor biedt voldoende snelheid. </li>\n</ul>\n<p> <strong>Deze laptop wordt niet aanbevolen voor:</strong> </p>\n<ul>\n<li>Fotobewerking in systemen zoals Photoshop: de processor is hiervoor niet snel genoeg. Wij adviseren minimaal een i7 processor of een aparte videokaart. </li>\n<li>Videobewerking: deze laptop beschikt niet over een aparte videokaart. </li>\n<li>Gaming: heeft niet de eigenschappen voor het spelen van de meest recente games. </li>\n</ul>\n<p> De krachtige 12e generatie <strong>Intel Core i7 processor</strong> zorgt ervoor dat zeer zware taken snel worden uitgevoerd. Laptops met de twaalfde generatie Intel Core processoren leren en kunnen zich aanpassen aan je computergedrag. Hierdoor werkt de computer nog sneller en vloeiender. De <strong>Intel Iris Xe Graphics</strong> is de ideale onboard videokaart voor lichte grafische taken, zoals foto's bewerken in Photoshop. Dankzij <strong>16 GB werkgeheugen</strong> ben je toekomstbestendig en is het mogelijk meerdere zware taken gelijktijdig uitvoeren. De <strong>SSD </strong>zorgt ervoor dat de laptop binnen 10 seconden is opgestart. Bovendien werkt een SSD volledig stil en is het betrouwbaarder dan een traditionele harde schijf. De laptop beschikt over een <strong>17,3 inch scherm</strong> en is vooral geschikt voor thuisgebruik. Het grotere scherm maakt teksten beter leesbaar dan een 15. 6 inch scherm.  </p>\n<p> </p><h3> Goed om te weten</h3><p> </p>\n<ul>\n<li>Deze laptop is voorzien van <strong>Windows 11 Home</strong>. </li>\n<li>De behuizing is gemaakt van <strong>magnesium</strong>. </li>\n<li>Deze laptop is <strong>niet </strong>voorzien van een DVD/CD speler. </li>\n<li>Deze laptop is voorzien van een <strong>QWERTY</strong> toetsenbord</li>\n</ul>"
+"short_description": "De ASUS Zenbook 17 Fold OLED UX9702AA-MD018W leidt de wereld met zijn verbazingwekkende 17.3 inch Foldable OLED touchscreen dat in een handomdraai kan worden ingeklapt tot een compact 12.5 inch formaat. Dit maakt het kleiner dan een vel kopieerpapier zodat het gemakkelijk mee kan worden genomen. Onze specialist adviseert deze laptop voor: Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking. Studie: verslagen uitwerken in Word en presentaties maken in Powerpoint. Films en series kijken in Full HD: het scherm kent een hoge beeldkwaliteit voor het bekijken van jouw films en series. Fotobewerking: de processor biedt voldoende snelheid. Deze laptop wordt niet aanbevolen voor: Fotobewerking in systemen zoals Photoshop: de processor is hiervoor niet snel genoeg. Wij adviseren minimaal een i7 processor of een aparte videokaart. Videobewerking: deze laptop beschikt niet over een aparte videokaart. Gaming: heeft niet de eigenschappen voor het spelen van de meest recente games. De krachtige 12e generatie Intel Core i7 processor zorgt ervoor dat zeer zware taken snel worden uitgevoerd. Laptops met de twaalfde generatie Intel Core processoren leren en kunnen zich aanpassen aan je computergedrag. Hierdoor werkt de computer nog sneller en vloeiender. De Intel Iris Xe Graphics is de ideale onboard videokaart voor lichte grafische taken, zoals foto's bewerken in Photoshop. Dankzij 16 GB werkgeheugen ben je toekomstbestendig en is het mogelijk meerdere zware taken gelijktijdig uitvoeren. De SSD zorgt ervoor dat de laptop binnen 10 seconden is opgestart. Bovendien werkt een SSD volledig stil en is het betrouwbaarder dan een traditionele harde schijf. De laptop beschikt over een 17,3 inch scherm en is vooral geschikt voor thuisgebruik. Het grotere scherm maakt teksten beter leesbaar dan een 15.6 inch scherm. Goed om te weten Deze laptop is voorzien van Windows 11 Home. De behuizing is gemaakt van magnesium. Deze laptop is niet voorzien van een DVD/CD speler. Deze laptop is voorzien van een QWERTY toetsenbord"
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/asus-zenbook-17-fold-oled-ux9702aa-md018w-2-in-1-laptop-17-3-inch.webp"
+---
+
+<p> De <strong>ASUS Zenbook 17 Fold OLED UX9702AA-MD018W </strong>leidt de wereld met zijn verbazingwekkende 17.3 inch Foldable OLED touchscreen dat in een handomdraai kan worden ingeklapt tot een compact 12.5 inch formaat. Dit maakt het kleiner dan een vel kopieerpapier zodat het gemakkelijk mee kan worden genomen.  </p>
+<p> <strong>Onze specialist adviseert deze laptop voor:</strong> </p>
+<ul>
+<li>Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking.</li>
+<li>Studie: verslagen uitwerken in Word en presentaties maken in Powerpoint.</li>
+<li>Films en series kijken in Full HD: het scherm kent een hoge beeldkwaliteit voor het bekijken van jouw films en series.</li>
+<li>Fotobewerking: de processor biedt voldoende snelheid.</li>
+</ul>
+<p> <strong>Deze laptop wordt niet aanbevolen voor:</strong> </p>
+<ul>
+<li>Fotobewerking in systemen zoals Photoshop: de processor is hiervoor niet snel genoeg. Wij adviseren minimaal een i7 processor of een aparte videokaart.</li>
+<li>Videobewerking: deze laptop beschikt niet over een aparte videokaart.</li>
+<li>Gaming: heeft niet de eigenschappen voor het spelen van de meest recente games. </li>
+</ul>
+<p> De krachtige 12e generatie <strong>Intel Core i7 processor</strong> zorgt ervoor dat zeer zware taken snel worden uitgevoerd. Laptops met de twaalfde generatie Intel Core processoren leren en kunnen zich aanpassen aan je computergedrag. Hierdoor werkt de computer nog sneller en vloeiender. De <strong>Intel Iris Xe Graphics</strong> is de ideale onboard videokaart voor lichte grafische taken, zoals foto's bewerken in Photoshop. Dankzij <strong>16 GB werkgeheugen</strong> ben je toekomstbestendig en is het mogelijk meerdere zware taken gelijktijdig uitvoeren. De <strong>SSD </strong>zorgt ervoor dat de laptop binnen 10 seconden is opgestart. Bovendien werkt een SSD volledig stil en is het betrouwbaarder dan een traditionele harde schijf. De laptop beschikt over een <strong>17,3 inch scherm</strong> en is vooral geschikt voor thuisgebruik. Het grotere scherm maakt teksten beter leesbaar dan een 15.6 inch scherm.  </p>
+<p>  </p><h3> Goed om te weten</h3><p>  </p>
+<ul>
+<li>Deze laptop is voorzien van <strong>Windows 11 Home</strong>.</li>
+<li>De behuizing is gemaakt van <strong>magnesium</strong>.</li>
+<li>Deze laptop is <strong>niet </strong>voorzien van een DVD/CD speler.</li>
+<li>Deze laptop is voorzien van een <strong>QWERTY</strong> toetsenbord</li>
+</ul>

@@ -1,0 +1,23 @@
+---
+"name": "LENOVO IdeaPad 3 15ALC6 - 15 inch - AMD Ryzen 5 - 16 GB - 256 GB"
+"brand": "Lenovo"
+"feed_url": "https://pf.tradedoubler.com/click?a(3322666)p(262336)product(50617-1794028)ttid(3)url(https%3A%2F%2Fwww.mediamarkt.nl%2Fnl%2Fproduct%2F_lenovo-ideapad-3-15alc6-15-inch-amd-ryzen-5-8-gb-256-gb-1794028.html%3Futm_source%3Dtradedoubler%26utm_medium%3Daff-comparison%26utm_term%3D1794028)"
+"price": 579
+"currency": "EUR"
+"GTIN": "0196119905487"
+"supplier": "Mediamarkt"
+"category": "Laptops"
+"bullet_points": ["39,6 cm / 15,6 inch","Full HD - 39,6 cm / 15,6 inch","SSD , 512 GB , M.2 via PCIe","1x USB 2.0","Lithium polymer","35.92 cm x 1.99 cm x 23.65 cm /"]
+"features": {"processor_brand":"AMD","charge_time_from_manufacturer":"1u","processor":"AMD Ryzen 5 5500U","product_depth":"23,65 cm","color":"Zwart","scope_of_delivery":"Laptop, AC-adapter (65W), handleiding","battery_life":"11 u","wlan_standards":"WiFi 5 (802.11AC)","previous_price":"749.00","bluetooth":"Ja","hard_disk_1":"SSD , 512 GB , M.2 via PCIe","processor_clock_rate":"2.1 GHz","short_description":"IP3 15ALC6 I5 8G 256 GB 5500 U","ram_configuration":"2x 8 GB","manufacturer_part_number":"82KU01LKMH","manufacturer_guarantee":"2 jaar","panel_type":"IPS (In-Plane Switching)","touchscreen":"Nee","dimensions_weight":"35.92 cm x 1.99 cm x 23.65 cm /","number_of_processor_cores":"6","old_price":"749.00","weight":"1,65 kg","processor_model":"Ryzen™ 5","product_height":"1,99 cm","image_quality":"Full HD","product_introduction_date":"2021-10-12","memory_speeds":"3200 MHz","integrated_mike":"Ja","speakers":"Ja","convertibility":"Vast scherm","screen_diagonal_inches":"15 inch","screen_type":"Glanzend scherm","depth":"23,65 cm","model_year":"2021","shipping_costs":"0.00","memory_size":"16 GB","battery_capacity":"45 Wh","product_width":"35,92 cm","delivery_time":"1","bluetooth_version":"5.0","brightness":"300 cd/m²","image_ratio":"16:9","product_manufacturer":"LENOVO","height":"1,99 cm","screen_diagonal_cm":"39,6 cm","screen_diagonal_cm_inch":"39,6 cm / 15,6 inch","battery_type":"Lithium polymer","product_type":"Laptop","capacity_of_1_hard_disk":"512 GB","type_of_1_hard_disk":"SSD","front_camera":"Ja","connections":"1x USB 2.0","resolution":"1920 x 1080","integrated_webcam":"Ja","total_storage_space_in_gb":"512 GB","wlan":"Ja","processor_speed_with_turbo":"4.0 GHz","ram_type":"DDR4","warranty_note":"Geen aanvullende garantie-informatie","card_reader":"Ja","total_storage_space":"256 GB"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"AMD Ryzen 5","changed_price_past_3_days":false,"product_family":"Ideapad"}
+"changed": "2023-12-13 07:20:16"
+"seo_header_title": "LENOVO IdeaPad 3 15ALC6 - 15 inch - AMD Ryzen 5 - 16 GB - 256 GB"
+"seo_meta_description": "LENOVO IdeaPad 3 15ALC6 - 15 inch - AMD Ryzen 5 - 16 GB - 256 GB"
+"seo_h1_title": "LENOVO IdeaPad 3 15ALC6 - 15 inch - AMD Ryzen 5 - 16 GB - 256 GB"
+"seo_short_description": "Ga elke uitdaging tijdens je werk of opleiding tegemoet met de Lenovo IdeaPad 3 15ALC6."
+"seo_long_description": "Met deze 15-inch-laptop geniet van krachtige, betrouwbare prestaties tijdens zowel licht als gemiddeld zwaar gebruik. Zo beschikt het apparaat namelijk over de AMD Ryzen 5-processor, waardoor jij moeiteloos zowel zakelijke als grafische taken uitvoert. Werk in tekstdocumenten, bewerk de mooiste foto's in Photoshop, bekijk je favoriete entertainment in Full HD-resolutie en meer. Bovendien kom je met deze laptop aan je zij zorgeloos je hele dag door. Hij gaat namelijk tot wel 11 uur lang mee op een volledig opgeladen accu. Dankzij het 8GB-werkgeheugen wordt multitasken een fluitje van een cent. Of jij nu een veelzijdige student bent of zakelijke kantoormedewerker, met de Lenovo IdeaPad 3 zit je gebakken."
+"short_description": ""
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/lenovo-ideapad-3-15alc6-15-inch-amd-ryzen-5-8-gb-256-gb-1794028.webp"
+---
+
+Ga elke uitdaging tijdens je werk of opleiding tegemoet met de Lenovo IdeaPad 3 15ALC6. Met deze 15-inch-laptop geniet van krachtige, betrouwbare prestaties tijdens zowel licht als gemiddeld zwaar gebruik. Zo beschikt het apparaat namelijk over de AMD Ryzen 5-processor, waardoor jij moeiteloos zowel zakelijke als grafische taken uitvoert. Werk in tekstdocumenten, bewerk de mooiste foto's in Photoshop, bekijk je favoriete entertainment in Full HD-resolutie en meer. Bovendien kom je met deze laptop aan je zij zorgeloos je hele dag door. Hij gaat namelijk tot wel 11 uur lang mee op een volledig opgeladen accu. Dankzij het 8GB-werkgeheugen wordt multitasken een fluitje van een cent. Of jij nu een veelzijdige student bent of zakelijke kantoormedewerker, met de Lenovo IdeaPad 3 zit je gebakken.

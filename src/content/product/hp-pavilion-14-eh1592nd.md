@@ -1,0 +1,23 @@
+---
+"name": "HP Pavilion+ 14-eh1592nd"
+"brand": "HP"
+"feed_url": "https://www.bol.com/nl/nl/p/hp-pavilion-14-eh1592nd/9300000153381109"
+"price": 1069
+"currency": "EUR"
+"GTIN": "0196337102194"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["14 inch","512 GB","16 GB","Intel Iris Xe Graphics"]
+"features": {"screen_diagonal_inches":"14 inch","total_storage_space":"512 GB","memory_size":"16 GB","graphics_card":"Intel Iris Xe Graphics"}
+"selection_group": {"screen_diagonal":"14 inch","processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"Pavilion"}
+"changed": "2023-12-13 07:27:17"
+"seo_header_title": "HP Pavilion+ 14-eh1592nd"
+"seo_meta_description": "HP Pavilion+ 14-eh1592nd"
+"seo_h1_title": "HP Pavilion+ 14-eh1592nd"
+"seo_short_description": "Ontdek de kracht van productiviteit en stijl met de HP Pavilion Plus Laptop 14-eh1592nd."
+"seo_long_description": "Deze laptop tilt je computerervaring naar een hoger niveau met indrukwekkende specificaties en een verbluffend ontwerp. <br /> <br />Dankzij de Intel Core i7-processor ben je verzekerd van razendsnelle prestaties voor al je taken, of het nu gaat om zakelijke projecten, creatieve ontwerpen of multimedia-entertainment. Met 16 GB DDR4-SDRAM en een royale 512 GB SSD-opslag, biedt deze laptop de perfecte combinatie van snelheid en opslagruimte, zodat je altijd productief kunt blijven. <br /> <br />Het 14-inch scherm met een 2. 8K-resolutie van 2880 x 1800 pixels biedt een verbluffende visuele ervaring. Geniet van haarscherpe details en levendige kleuren, of je nu aan het werken bent of van je favoriete content geniet. <br /> <br />De HP Pavilion Plus Laptop combineert prestaties met elegantie en draagbaarheid. Het is de ideale metgezel voor professionals die onderweg zijn, studenten die in stijl willen studeren, en iedereen die waarde hecht aan kwaliteit en innovatie. <br /> <br />Neem de controle over je productiviteit en ervaar de schoonheid van het HP Pavilion Plus Laptop 14-eh1592nd. Kies voor prestaties, kies voor stijl. Maak de slimme keuze voor jouw digitale wereld. <br />"
+"short_description": "Ontdek de kracht van productiviteit en stijl met de HP Pavilion Plus Laptop 14-eh1592nd. Deze laptop tilt je computerervaring naar een hoger niveau met indrukwekkende specificaties en een verbluffend ontwerp. Dankzij de Intel Core i7-processor ben je verzekerd van razendsnelle prestaties voor al je taken, of het nu gaat om zakelijke projecten, creatieve ontwerpen of multimedia-entertainment. Met 16 GB DDR4-SDRAM en een royale 512 GB SSD-opslag, biedt deze laptop de perfecte combinatie van snelheid en opslagruimte, zodat je altijd productief kunt blijven. Het 14-inch scherm met een 2.8K-resolutie van 2880 x 1800 pixels biedt een verbluffende visuele ervaring. Geniet van haarscherpe details en levendige kleuren, of je nu aan het werken bent of van je favoriete content geniet. De HP Pavilion Plus Laptop combineert prestaties met elegantie en draagbaarheid. Het is de ideale metgezel voor professionals die onderweg zijn, studenten die in stijl willen studeren, en iedereen die waarde hecht aan kwaliteit en innovatie. Neem de controle over je productiviteit en ervaar de schoonheid van het HP Pavilion Plus Laptop 14-eh1592nd. Kies voor prestaties, kies voor stijl. Maak de slimme keuze voor jouw digitale wereld."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/hp-pavilion-14-eh1592nd.webp"
+---
+
+Ontdek de kracht van productiviteit en stijl met de HP Pavilion Plus Laptop 14-eh1592nd. Deze laptop tilt je computerervaring naar een hoger niveau met indrukwekkende specificaties en een verbluffend ontwerp. <br /> <br />Dankzij de Intel Core i7-processor ben je verzekerd van razendsnelle prestaties voor al je taken, of het nu gaat om zakelijke projecten, creatieve ontwerpen of multimedia-entertainment. Met 16 GB DDR4-SDRAM en een royale 512 GB SSD-opslag, biedt deze laptop de perfecte combinatie van snelheid en opslagruimte, zodat je altijd productief kunt blijven. <br /> <br />Het 14-inch scherm met een 2.8K-resolutie van 2880 x 1800 pixels biedt een verbluffende visuele ervaring. Geniet van haarscherpe details en levendige kleuren, of je nu aan het werken bent of van je favoriete content geniet. <br /> <br />De HP Pavilion Plus Laptop combineert prestaties met elegantie en draagbaarheid. Het is de ideale metgezel voor professionals die onderweg zijn, studenten die in stijl willen studeren, en iedereen die waarde hecht aan kwaliteit en innovatie. <br /> <br />Neem de controle over je productiviteit en ervaar de schoonheid van het HP Pavilion Plus Laptop 14-eh1592nd. Kies voor prestaties, kies voor stijl. Maak de slimme keuze voor jouw digitale wereld. <br />

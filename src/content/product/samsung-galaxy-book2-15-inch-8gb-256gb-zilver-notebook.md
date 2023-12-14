@@ -1,0 +1,39 @@
+---
+"name": "Samsung Galaxy Book2 - 15 inch - 8GB | 256GB - Zilver - Notebook"
+"brand": "Samsung"
+"feed_url": "https://www.bol.com/nl/nl/p/samsung-galaxy-book2-15-inch-8gb-256gb-zilver-notebook/9300000117600952"
+"price": 699
+"currency": "EUR"
+"GTIN": "8806094377392"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Notebook Clamshell Zilver","Intel® Core™ i7 i7-1255U 1,7 GHz","39,6 cm (15.6\") Full HD 1920 x 1080 Pixels","8 GB LPDDR4x-SDRAM","256 GB SSD","Intel Iris Xe Graphics","Wi-Fi 6 (802.11ax) Bluetooth 5.1","54 Wh 45 W","Windows 11 Home"]
+"features": {"screen_diagonal_inches":"15 inch","screen_resolution":"1920 x 1080 Pixels","processor_family":"Intel® Core™ i7","memory_size":"8 GB","memory_type":"LPDDR4x-SDRAM","total_storage_space":"256 GB","operating_system":"Windows 11 Home","battery_capacity":"54 Wh","width":"356,6 mm","depth":"229,1 mm","height":"15,4 mm","weight":"1,57 kg"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"Intel Core i7","changed_price_past_3_days":true,"product_family":"Galaxy Book2"}
+"historical_prices": [{"date":"2023-11-11","price":719},{"date":"2023-12-13","price":699}]
+"changed": "2023-12-13 07:25:32"
+"previous_price": 719
+"seo_header_title": "Samsung Galaxy Book2 - 15 inch - 8GB | 256GB - Zilver - Notebook"
+"seo_meta_description": "Samsung Galaxy Book2 - 15 inch - 8GB | 256GB - Zilver - Notebook"
+"seo_h1_title": "Samsung Galaxy Book2 - 15 inch - 8GB | 256GB - Zilver - Notebook"
+"seo_short_description": "<p> De Samsung Galaxy Book2 beschikt over een Intel Core i7 1255U-processor, 8GB RAM, een geheugen van 256GB, Windows 11 besturingssysteem en een Full HD beeldscherm van 15,6 inch."
+"seo_long_description": "</p>\n<h3>Krachtige performance</h3>\n<p> Of je nu jouw lievelings game speelt of gebruik maakt van zwaardere software: de Samsung Galaxy Book2 met een 12e generatie Intel processor kan het aan. De processor maakt gebruik van 10 kernen en start binnen secondes op.  </p>\n<h3>Geoptimaliseerde videocalls</h3>\n<p> Met de Galaxy Book2 kun je zonder problemen aan elke vergadering deelnemen. Dankzij Dolby Atmos heb jij altijd een duidelijk en krachtig geluid en met de Studio Mode kun je jouw gezicht tracken en framen om de achtergrond te minimaliseren. Met Intelligent Noise Cancelling worden geluiden uit de omgeving verwijderd vanuit zowel jouw laptop als met degene die jij belt.  </p>\n<h3>Lange batterijduur</h3>\n<p> Galaxy Book2 heeft een batterij met een lange levensduur van 54 Wh en een oplader om je apparaat aan de gang te houden. De 65W super fast charger zorgt bij een lege batterij zo weer voor voldoende power! </p>\n<h3>Wifi 6</h3>\n<p> Dankzij de wifi 6 ondersteuning kun je binnen no time bestanden downloaden, surfen op het web, videogesprekken van hoge kwaliteit voeren en streamen zonder vertraging. </p>\n<h3>Draagbaar model</h3>\n<p> Met een gewicht van 1,57 kg en een dikte van 15,4 mm neem je de laptop gemakkelijk overal mee naar toe. Het anti-fingerprint design zorgt ervoor dat viezigheid en vingerafdrukken niet zichtbaar zijn.  </p>\n<h3>Naadloos overzetten</h3>\n<p> Je kunt heel eenvoudig content overzetten tussen jouw telefoon en Notebook. Bovendien kun je de apps die op jouw telefoon staan ook gebruiken op jouw laptop. Je kunt gemakkelijk berichten kopiëren, plakken of verplaatsen van jouw Galaxy Book2 naar een Galaxy smartphone. Ideaal! </p>\n<h3>Bixby</h3>\n<p> Wil je met jouw laptop communiceren via stembediening? Dat kan met Bixby. Vraag om verbinding te maken met een wifi netwerk, een e-mail te schrijven of je agenda te tonen.  </p>"
+"short_description": "De Samsung Galaxy Book2 beschikt over een Intel Core i7 1255U-processor, 8GB RAM, een geheugen van 256GB, Windows 11 besturingssysteem en een Full HD beeldscherm van 15,6 inch. Krachtige performance Of je nu jouw lievelings game speelt of gebruik maakt van zwaardere software: de Samsung Galaxy Book2 met een 12e generatie Intel processor kan het aan. De processor maakt gebruik van 10 kernen en start binnen secondes op. Geoptimaliseerde videocalls Met de Galaxy Book2 kun je zonder problemen aan elke vergadering deelnemen. Dankzij Dolby Atmos heb jij altijd een duidelijk en krachtig geluid en met de Studio Mode kun je jouw gezicht tracken en framen om de achtergrond te minimaliseren. Met Intelligent Noise Cancelling worden geluiden uit de omgeving verwijderd vanuit zowel jouw laptop als met degene die jij belt. Lange batterijduur Galaxy Book2 heeft een batterij met een lange levensduur van 54 Wh en een oplader om je apparaat aan de gang te houden. De 65W super fast charger zorgt bij een lege batterij zo weer voor voldoende power! Wifi 6 Dankzij de wifi 6 ondersteuning kun je binnen no time bestanden downloaden, surfen op het web, videogesprekken van hoge kwaliteit voeren en streamen zonder vertraging. Draagbaar model Met een gewicht van 1,57 kg en een dikte van 15,4 mm neem je de laptop gemakkelijk overal mee naar toe. Het anti-fingerprint design zorgt ervoor dat viezigheid en vingerafdrukken niet zichtbaar zijn. Naadloos overzetten Je kunt heel eenvoudig content overzetten tussen jouw telefoon en Notebook. Bovendien kun je de apps die op jouw telefoon staan ook gebruiken op jouw laptop. Je kunt gemakkelijk berichten kopiëren, plakken of verplaatsen van jouw Galaxy Book2 naar een Galaxy smartphone. Ideaal! Bixby Wil je met jouw laptop communiceren via stembediening? Dat kan met Bixby. Vraag om verbinding te maken met een wifi netwerk, een e-mail te schrijven of je agenda te tonen."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/samsung-galaxy-book2-15-inch-8gb-256gb-zilver-notebook.webp"
+---
+
+<p> De Samsung Galaxy Book2 beschikt over een Intel Core i7 1255U-processor, 8GB RAM, een geheugen van 256GB, Windows 11 besturingssysteem en een Full HD beeldscherm van 15,6 inch. </p>
+<h3>Krachtige performance</h3>
+<p> Of je nu jouw lievelings game speelt of gebruik maakt van zwaardere software: de Samsung Galaxy Book2 met een 12e generatie Intel processor kan het aan. De processor maakt gebruik van 10 kernen en start binnen secondes op.  </p>
+<h3>Geoptimaliseerde videocalls</h3>
+<p> Met de Galaxy Book2 kun je zonder problemen aan elke vergadering deelnemen. Dankzij Dolby Atmos heb jij altijd een duidelijk en krachtig geluid en met de Studio Mode kun je jouw gezicht tracken en framen om de achtergrond te minimaliseren. Met Intelligent Noise Cancelling worden geluiden uit de omgeving verwijderd vanuit zowel jouw laptop als met degene die jij belt.  </p>
+<h3>Lange batterijduur</h3>
+<p> Galaxy Book2 heeft een batterij met een lange levensduur van 54 Wh en een oplader om je apparaat aan de gang te houden. De 65W super fast charger zorgt bij een lege batterij zo weer voor voldoende power! </p>
+<h3>Wifi 6</h3>
+<p> Dankzij de wifi 6 ondersteuning kun je binnen no time bestanden downloaden, surfen op het web, videogesprekken van hoge kwaliteit voeren en streamen zonder vertraging. </p>
+<h3>Draagbaar model</h3>
+<p> Met een gewicht van 1,57 kg en een dikte van 15,4 mm neem je de laptop gemakkelijk overal mee naar toe. Het anti-fingerprint design zorgt ervoor dat viezigheid en vingerafdrukken niet zichtbaar zijn.  </p>
+<h3>Naadloos overzetten</h3>
+<p> Je kunt heel eenvoudig content overzetten tussen jouw telefoon en Notebook. Bovendien kun je de apps die op jouw telefoon staan ook gebruiken op jouw laptop. Je kunt gemakkelijk berichten kopiëren, plakken of verplaatsen van jouw Galaxy Book2 naar een Galaxy smartphone. Ideaal!  </p>
+<h3>Bixby</h3>
+<p> Wil je met jouw laptop communiceren via stembediening? Dat kan met Bixby. Vraag om verbinding te maken met een wifi netwerk, een e-mail te schrijven of je agenda te tonen.  </p>

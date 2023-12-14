@@ -1,0 +1,23 @@
+---
+"name": "APPLE MacBook Pro 14 (2023) - Spacegrijs M2 Max - 12C - 38C - 96 GB - 4 TB"
+"brand": "Apple"
+"feed_url": "https://pf.tradedoubler.com/click?a(3322666)p(262336)product(50617-1759737)ttid(3)url(https%3A%2F%2Fwww.mediamarkt.nl%2Fnl%2Fproduct%2F_apple-macbook-pro-14-2023-spacegrijs-m2-max-12c-38c-96-gb-4-tb-1759737.html%3Futm_source%3Dtradedoubler%26utm_medium%3Daff-comparison%26utm_term%3D1759737)"
+"price": 5199.77
+"currency": "EUR"
+"GTIN": "4066617008446"
+"supplier": "Mediamarkt"
+"category": "Laptops"
+"bullet_points": ["Apple M2 Max (12-core) / 38-core GPU / 94 GB / 4 TB","35,5 cm / 14 inch","Retina - 35,5 cm / 14 inch","SSD , 1 TB","3 Thunderbolt 4-poorten, HDMI-poort, SDXC-kaartsleuf, mini‑jack-aansluiting, MagSafe 3-poort","0 cm x 0 cm x 0 cm /"]
+"features": {"previous_price":"6120.00","screen_diagonal_cm_inch":"35,5 cm / 14 inch","product_height":"0,0 cm","depth":"0 cm","additional_update_information":"Voor zover op de afbeeldingen apps worden getoond, geldt dat MediaMarkt niet kan garanderen dat de apps tijdens de volledige levensduur van het product goed zullen blijven functioneren. Dit hangt af van het beleid van de fabrikant.","product_width":"0,0 cm","connections":"3 Thunderbolt 4-poorten, HDMI-poort, SDXC-kaartsleuf, mini‑jack-aansluiting, MagSafe 3-poort","hard_disk_1":"SSD , 1 TB","number_of_processor_cores":"38","bluetooth":"Ja","panel_type":"IPS (In-Plane Switching)","total_storage_space_in_gb":"1 TB","dimensions_weight":"0 cm x 0 cm x 0 cm /","screen_diagonal_inches":"14 inch","manufacturer_supported_software_updates":"Onbekend","capacity_of_1_hard_disk":"1 TB","processor_model":"M-Series","resolution":"3024 x 1964","convertibility":"Vast scherm","scope_of_delivery":"Laptop, AC-adapter, handleiding","weight":"0 kg","model_year":"2023","manufacturer_part_number":"MPHG3N/A Z17J001AS","shipping_costs":"0.00","screen_diagonal_cm":"35,5 cm","product_manufacturer":"APPLE","delivery_time":"5","product_introduction_date":"2023-04-07","ram_type":"Apple M2 Chip","product_depth":"0,0 cm","configuration":"Apple M2 Max (12-core) / 38-core GPU / 94 GB / 4 TB","color":"Grijs","product_type":"Laptop","memory_size":"96 GB","processor":"Apple M2 Max","type_of_1_hard_disk":"SSD","processor_brand":"Apple","update_policy":"Onbekend","wlan":"Ja","image_quality":"Retina","old_price":"6120.00","height":"0 cm","short_description":"Z17J001AS/CTO/MBP14/SG/12C38C/96/4","total_storage_space":"4 TB","operating_system":"MacOS"}
+"selection_group": {"processor":"Apple M1","changed_price_past_3_days":false,"product_family":"MacBook Pro"}
+"changed": "2023-12-13 07:20:26"
+"seo_header_title": "APPLE MacBook Pro 14 (2023) - Spacegrijs M2 Max - 12C - 38C - 96 GB - 4 TB"
+"seo_meta_description": "APPLE MacBook Pro 14 (2023) - Spacegrijs M2 Max - 12C - 38C - 96 GB - 4 TB"
+"seo_h1_title": "APPLE MacBook Pro 14 (2023) - Spacegrijs M2 Max - 12C - 38C - 96 GB - 4 TB"
+"seo_short_description": "Ervaar de ongekende prestaties en sterke batterij van de MacBook Pro."
+"seo_long_description": "De dunne 14-inch-laptop van Apple gebruik je tot maar liefst 20 uur lang terwijl je op het scherpe Retina-scherm geniet van jouw favoriete films, series of foto’s. De Apple M1 Pro-chip zorgt daarbij met zijn 38-core CPU en 12-core GPU voor razendsnelle prestaties en vloeiende graphics, waardoor je probleemloos werkt met diverse veeleisende apps. Verder heb je met de 12 functietoetsen alle commando’s die je het meest gebruikt tot je beschikking en zijn er drie ThunderBolt 4-poorten aanwezig. Dit maakt de MacBook een veelzijdig device met uiteenlopende mogelijkheden."
+"short_description": ""
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/apple-macbook-pro-14-2023-spacegrijs-m2-max-12c-38c-96-gb-4-tb-1759737.webp"
+---
+
+Ervaar de ongekende prestaties en sterke batterij van de MacBook Pro. De dunne 14-inch-laptop van Apple gebruik je tot maar liefst 20 uur lang terwijl je op het scherpe Retina-scherm geniet van jouw favoriete films, series of foto’s. De Apple M1 Pro-chip zorgt daarbij met zijn 38-core CPU en 12-core GPU voor razendsnelle prestaties en vloeiende graphics, waardoor je probleemloos werkt met diverse veeleisende apps. Verder heb je met de 12 functietoetsen alle commando’s die je het meest gebruikt tot je beschikking en zijn er drie ThunderBolt 4-poorten aanwezig. Dit maakt de MacBook een veelzijdig device met uiteenlopende mogelijkheden.

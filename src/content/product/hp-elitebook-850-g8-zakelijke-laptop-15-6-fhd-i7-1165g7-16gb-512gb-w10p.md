@@ -1,0 +1,25 @@
+---
+"name": "HP EliteBook 850 G8 - zakelijke laptop - 15.6 FHD - i7-1165G7 - 16GB - 512GB - W10P"
+"brand": "HP"
+"feed_url": "https://www.bol.com/nl/nl/p/hp-elitebook-850-g8-zakelijke-laptop-15-6-fhd-i7-1165g7-16gb-512gb-w10p/9300000113807181"
+"price": 910
+"currency": "EUR"
+"GTIN": "0195908328414"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["15.6 inch","512 GB","16 GB","Intel Iris Xe Graphics"]
+"features": {"screen_diagonal_inches":"15.6 inch","total_storage_space":"512 GB","memory_size":"16 GB","graphics_card":"Intel Iris Xe Graphics"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"Intel Core i7","changed_price_past_3_days":true,"product_family":"Elitebook"}
+"historical_prices": [{"date":"2023-11-22","price":949},{"date":"2023-12-09","price":941.2},{"date":"2023-12-10","price":933.4},{"date":"2023-12-11","price":925.6},{"date":"2023-12-12","price":917.8},{"date":"2023-12-13","price":910}]
+"changed": "2023-12-13 07:26:48"
+"previous_price": 917.8
+"seo_header_title": "HP EliteBook 850 G8 - zakelijke laptop - 15.6 FHD - i7-1165G7 - 16GB - 512GB - W10P"
+"seo_meta_description": "HP EliteBook 850 G8 - zakelijke laptop - 15.6 FHD - i7-1165G7 - 16GB - 512GB - W10P"
+"seo_h1_title": "HP EliteBook 850 G8 - zakelijke laptop - 15.6 FHD - i7-1165G7 - 16GB - 512GB - W10P"
+"seo_short_description": "<p> De HP EliteBook HP EliteBook 850 G8 is geschikt voor Windows 11 </p> <p> Met zijn nieuwe compacte ontwerp levert de zakelijke HP EliteBook 850 G8 laptop-pc snelle prestaties, optimale beveiliging en duurzaamheid voor flexibele medewerkers die zich verplaatsen tussen hun bureau, vergaderruimtes en thuis."
+"seo_long_description": "<br /><strong><br />Onze specialist adviseert deze laptop voor:</strong> </p> <p> Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking. <br />Studie: verslagen uitwerken in Word en presentaties maken in PowerPoint. <br />Foto- en Videobewerking: de processor is hiervoor krachtig genoeg. <br /><br /><strong>Korte specificaties:<br /></strong>HP EliteBook 850 G8 <br />15. 6\" FullHD UWVA Beeldscherm<br />16GB Werkgeheugen<br />Core i7-1165G7<br />512GB PCIe SSD schijf<br />Keyboard verlichting<br />Windows 10 Professional<br />WiFi 6<br />3 Jaar onsite garantie </p> <p> LTE/4G </p> <p> <strong>Goed om te weten</strong> </p> <p> - Deze laptop is voorzien van een voorgeïnstalleerde Windows 10 Pro<br />- Deze laptop is niet voorzien van een DVD/CD speler<br />- Deze laptop is voorzien van een <strong>QWERTY</strong> toetsenbord </p>"
+"short_description": "De HP EliteBook HP EliteBook 850 G8 is geschikt voor Windows 11 Met zijn nieuwe compacte ontwerp levert de zakelijke HP EliteBook 850 G8 laptop-pc snelle prestaties, optimale beveiliging en duurzaamheid voor flexibele medewerkers die zich verplaatsen tussen hun bureau, vergaderruimtes en thuis. Onze specialist adviseert deze laptop voor: Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking. Studie: verslagen uitwerken in Word en presentaties maken in PowerPoint. Foto- en Videobewerking: de processor is hiervoor krachtig genoeg. Korte specificaties: HP EliteBook 850 G8 15.6\" FullHD UWVA Beeldscherm 16GB Werkgeheugen Core i7-1165G7 512GB PCIe SSD schijf Keyboard verlichting Windows 10 Professional WiFi 6 3 Jaar onsite garantie LTE/4G Goed om te weten - Deze laptop is voorzien van een voorgeïnstalleerde Windows 10 Pro - Deze laptop is niet voorzien van een DVD/CD speler - Deze laptop is voorzien van een QWERTY toetsenbord"
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/hp-elitebook-850-g8-zakelijke-laptop-15-6-fhd-i7-1165g7-16gb-512gb-w10p.webp"
+---
+
+<p> De HP EliteBook HP EliteBook 850 G8 is geschikt voor Windows 11 </p> <p> Met zijn nieuwe compacte ontwerp levert de zakelijke HP EliteBook 850 G8 laptop-pc snelle prestaties, optimale beveiliging en duurzaamheid voor flexibele medewerkers die zich verplaatsen tussen hun bureau, vergaderruimtes en thuis.<br /><strong><br />Onze specialist adviseert deze laptop voor:</strong> </p> <p> Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking.<br />Studie: verslagen uitwerken in Word en presentaties maken in PowerPoint.<br />Foto- en Videobewerking: de processor is hiervoor krachtig genoeg.<br /><br /><strong>Korte specificaties:<br /></strong>HP EliteBook 850 G8 <br />15.6" FullHD UWVA Beeldscherm<br />16GB Werkgeheugen<br />Core i7-1165G7<br />512GB PCIe SSD schijf<br />Keyboard verlichting<br />Windows 10 Professional<br />WiFi 6<br />3 Jaar onsite garantie </p> <p> LTE/4G </p> <p> <strong>Goed om te weten</strong> </p> <p> - Deze laptop is voorzien van een voorgeïnstalleerde Windows 10 Pro<br />- Deze laptop is niet voorzien van een DVD/CD speler<br />- Deze laptop is voorzien van een <strong>QWERTY</strong> toetsenbord </p>

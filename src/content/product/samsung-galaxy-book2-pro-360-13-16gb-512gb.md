@@ -1,0 +1,51 @@
+---
+"name": "Samsung Galaxy Book2 Pro 360 13\" 16GB | 512GB (Zilver)"
+"brand": "Samsung"
+"feed_url": "https://www.bol.com/nl/nl/p/samsung-galaxy-book2-pro-360-13-16gb-512gb/9300000092837415"
+"price": 1304.95
+"currency": "EUR"
+"GTIN": "8806094295092"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Hybride (2-in-1) Convertible (Map) Zilver","Intel® Core™ i7","Touchscreen 33,8 cm (13.3\") Full HD 1920 x 1080 Pixels AMOLED","16 GB LPDDR5-SDRAM","512 GB SSD","Intel Iris Xe Graphics","Wi-Fi 6E (802.11ax) Bluetooth 5.1","63 Wh 65 W","Windows 11 Home"]
+"features": {"screen_diagonal_inches":"13.3 inch","screen_resolution":"1920 x 1080 Pixels","processor_family":"Intel® Core™ i7","memory_size":"16 GB","memory_type":"LPDDR5-SDRAM","total_storage_space":"512 GB","operating_system":"Windows 11 Home","battery_capacity":"63 Wh","width":"302,5 mm","depth":"202 mm","height":"11,5 mm","weight":"1,04 kg","graphics_card":"Intel Iris Xe Graphics"}
+"selection_group": {"screen_diagonal":"13 inch","processor":"Intel Core i7","changed_price_past_3_days":false,"product_family":"Galaxy Book2 Pro 360"}
+"changed": "2023-12-13 07:26:35"
+"seo_header_title": "Samsung Galaxy Book2 Pro 360 13\" 16GB | 512GB (Zilver)"
+"seo_meta_description": "Samsung Galaxy Book2 Pro 360 13\" 16GB | 512GB (Zilver)"
+"seo_h1_title": "Samsung Galaxy Book2 Pro 360 13\" 16GB | 512GB (Zilver)"
+"seo_short_description": "Productinformatie\n\n\n\n\n\n \n\n<p> De Samsung Galaxy Book2 Pro 360 beschikt over een Intel Core i7 1260-processor, 16GB RAM, een geheugen van 512GB, Windows 11 besturingssysteem en een Full HD AMOLED beeldscherm van 13,3 inch."
+"seo_long_description": "</p>\n<h3>Krachtige performance</h3>\n<p> Of je nu jouw lievelings game speelt of gebruik maakt van zwaardere software: de Samsung Galaxy Book2 Pro 360 met een 12e generatie Intel processor kan het aan. De processor maakt gebruik van 12 kernen en start binnen secondes op. </p>\n<h3>S Pen</h3>\n<p> Maximaliseer je productiviteit door het 360 graden draaibare ontwerp, touchscreen en meegeleverde S-pen met een latentie van 25ms. </p>\n<h3>Super AMOLED beeldscherm</h3>\n<p> Het beeldscherm heeft een responstijd van 2ms. Hierdoor heb jij geen last van haperende beelden. In lichte omgevingen kun je het beeldscherm goed blijven zien. Bovendien produceert het beeldscherm 70% minder blauw licht om jouw ogen zoveel mogelijk te ontlasten.  </p>\n<h3>Geoptimaliseerde videocalls</h3>\n<p> Met de Galaxy Book2 Pro 360 kun je zonder problemen aan elke vergadering deelnemen. Dankzij Dolby Atmos heb jij altijd een duidelijk en krachtig geluid en met de Studio Mode kun je jouw gezicht tracken en framen om de achtergrond te minimaliseren. De 1080p Full HD camera biedt kwalitatief beeld en 87° Angle of View ben je altijd duidelijk te zien. Met Intelligent Noise Cancelling worden geluiden uit de omgeving verwijderd vanuit zowel jouw laptop als met degene die jij belt.  </p>\n<h3>Veilig aan het werk</h3>\n<p> Het Windows-apparaat heeft een hoog niveau van hardware-, software- en identiteitsbescherming om ervoor te zorgen dat jij zo veilig mogelijk kunt werken.  </p>\n<h3>Lange batterijduur</h3>\n<p> Met de Samsung kun je tot wel 21 uur aan video's bekijken. Hierdoor hoef jij je geen zorgen te maken over een lege batterij. De 65W super fast charger zorgt bij een lege batterij zo weer voor voldoende power! </p>\n<h3>Overal bereikbaar</h3>\n<p> Dankzij de wifi 6E ondersteuning kun je binnen no time bestanden downloaden, surfen op het web, videogesprekken van hoge kwaliteit voeren en streamen zonder vertraging. Door de 5G ondersteuning ben je altijd en overal bereikbaar! </p>\n<h3>Draagbaar model</h3>\n<p> Met een gewicht van 1,04 kg en een dikte van 11,5 mm neem je de laptop gemakkelijk overal mee naar toe. Het anti-fingerprint design zorgt ervoor dat viezigheid en vingerafdrukken niet zichtbaar zijn.  </p>\n<h3>Naadloos overzetten</h3>\n<p> Je kunt heel eenvoudig content overzetten tussen jouw telefoon en Notebook. Bovendien kun je de apps die op jouw telefoon staan ook gebruiken op jouw laptop. Je kunt gemakkelijk berichten kopiëren, plakken of verplaatsen van jouw Galaxy Book2 Pro 360 naar een Galaxy smartphone. Ideaal! </p>\n<h3>Bixby</h3>\n<p> Wil je met jouw laptop communiceren via stembediening? Dat kan met Bixby. Vraag om verbinding te maken met een wifi netwerk, een e-mail te schrijven of je agenda te tonen.  </p>"
+"short_description": "Productinformatie De Samsung Galaxy Book2 Pro 360 beschikt over een Intel Core i7 1260-processor, 16GB RAM, een geheugen van 512GB, Windows 11 besturingssysteem en een Full HD AMOLED beeldscherm van 13,3 inch. Krachtige performance Of je nu jouw lievelings game speelt of gebruik maakt van zwaardere software: de Samsung Galaxy Book2 Pro 360 met een 12e generatie Intel processor kan het aan. De processor maakt gebruik van 12 kernen en start binnen secondes op. S Pen Maximaliseer je productiviteit door het 360 graden draaibare ontwerp, touchscreen en meegeleverde S-pen met een latentie van 25ms. Super AMOLED beeldscherm Het beeldscherm heeft een responstijd van 2ms. Hierdoor heb jij geen last van haperende beelden. In lichte omgevingen kun je het beeldscherm goed blijven zien. Bovendien produceert het beeldscherm 70% minder blauw licht om jouw ogen zoveel mogelijk te ontlasten. Geoptimaliseerde videocalls Met de Galaxy Book2 Pro 360 kun je zonder problemen aan elke vergadering deelnemen. Dankzij Dolby Atmos heb jij altijd een duidelijk en krachtig geluid en met de Studio Mode kun je jouw gezicht tracken en framen om de achtergrond te minimaliseren. De 1080p Full HD camera biedt kwalitatief beeld en 87° Angle of View ben je altijd duidelijk te zien. Met Intelligent Noise Cancelling worden geluiden uit de omgeving verwijderd vanuit zowel jouw laptop als met degene die jij belt. Veilig aan het werk Het Windows-apparaat heeft een hoog niveau van hardware-, software- en identiteitsbescherming om ervoor te zorgen dat jij zo veilig mogelijk kunt werken. Lange batterijduur Met de Samsung kun je tot wel 21 uur aan video's bekijken. Hierdoor hoef jij je geen zorgen te maken over een lege batterij. De 65W super fast charger zorgt bij een lege batterij zo weer voor voldoende power! Overal bereikbaar Dankzij de wifi 6E ondersteuning kun je binnen no time bestanden downloaden, surfen op het web, videogesprekken van hoge kwaliteit voeren en streamen zonder vertraging. Door de 5G ondersteuning ben je altijd en overal bereikbaar! Draagbaar model Met een gewicht van 1,04 kg en een dikte van 11,5 mm neem je de laptop gemakkelijk overal mee naar toe. Het anti-fingerprint design zorgt ervoor dat viezigheid en vingerafdrukken niet zichtbaar zijn. Naadloos overzetten Je kunt heel eenvoudig content overzetten tussen jouw telefoon en Notebook. Bovendien kun je de apps die op jouw telefoon staan ook gebruiken op jouw laptop. Je kunt gemakkelijk berichten kopiëren, plakken of verplaatsen van jouw Galaxy Book2 Pro 360 naar een Galaxy smartphone. Ideaal! Bixby Wil je met jouw laptop communiceren via stembediening? Dat kan met Bixby. Vraag om verbinding te maken met een wifi netwerk, een e-mail te schrijven of je agenda te tonen."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/samsung-galaxy-book2-pro-360-13-16gb-512gb.webp"
+---
+
+Productinformatie
+
+
+
+
+
+ 
+
+<p> De Samsung Galaxy Book2 Pro 360 beschikt over een Intel Core i7 1260-processor, 16GB RAM, een geheugen van 512GB, Windows 11 besturingssysteem en een Full HD AMOLED beeldscherm van 13,3 inch.  </p>
+<h3>Krachtige performance</h3>
+<p> Of je nu jouw lievelings game speelt of gebruik maakt van zwaardere software: de Samsung Galaxy Book2 Pro 360 met een 12e generatie Intel processor kan het aan. De processor maakt gebruik van 12 kernen en start binnen secondes op. </p>
+<h3>S Pen</h3>
+<p> Maximaliseer je productiviteit door het 360 graden draaibare ontwerp, touchscreen en meegeleverde S-pen met een latentie van 25ms. </p>
+<h3>Super AMOLED beeldscherm</h3>
+<p> Het beeldscherm heeft een responstijd van 2ms. Hierdoor heb jij geen last van haperende beelden. In lichte omgevingen kun je het beeldscherm goed blijven zien. Bovendien produceert het beeldscherm 70% minder blauw licht om jouw ogen zoveel mogelijk te ontlasten.  </p>
+<h3>Geoptimaliseerde videocalls</h3>
+<p> Met de Galaxy Book2 Pro 360 kun je zonder problemen aan elke vergadering deelnemen. Dankzij Dolby Atmos heb jij altijd een duidelijk en krachtig geluid en met de Studio Mode kun je jouw gezicht tracken en framen om de achtergrond te minimaliseren. De 1080p Full HD camera biedt kwalitatief beeld en 87° Angle of View ben je altijd duidelijk te zien. Met Intelligent Noise Cancelling worden geluiden uit de omgeving verwijderd vanuit zowel jouw laptop als met degene die jij belt.  </p>
+<h3>Veilig aan het werk</h3>
+<p> Het Windows-apparaat heeft een hoog niveau van hardware-, software- en identiteitsbescherming om ervoor te zorgen dat jij zo veilig mogelijk kunt werken.  </p>
+<h3>Lange batterijduur</h3>
+<p> Met de Samsung kun je tot wel 21 uur aan video's bekijken. Hierdoor hoef jij je geen zorgen te maken over een lege batterij. De 65W super fast charger zorgt bij een lege batterij zo weer voor voldoende power! </p>
+<h3>Overal bereikbaar</h3>
+<p> Dankzij de wifi 6E ondersteuning kun je binnen no time bestanden downloaden, surfen op het web, videogesprekken van hoge kwaliteit voeren en streamen zonder vertraging. Door de 5G ondersteuning ben je altijd en overal bereikbaar!  </p>
+<h3>Draagbaar model</h3>
+<p> Met een gewicht van 1,04 kg en een dikte van 11,5 mm neem je de laptop gemakkelijk overal mee naar toe. Het anti-fingerprint design zorgt ervoor dat viezigheid en vingerafdrukken niet zichtbaar zijn.  </p>
+<h3>Naadloos overzetten</h3>
+<p> Je kunt heel eenvoudig content overzetten tussen jouw telefoon en Notebook. Bovendien kun je de apps die op jouw telefoon staan ook gebruiken op jouw laptop. Je kunt gemakkelijk berichten kopiëren, plakken of verplaatsen van jouw Galaxy Book2 Pro 360 naar een Galaxy smartphone. Ideaal!  </p>
+<h3>Bixby</h3>
+<p> Wil je met jouw laptop communiceren via stembediening? Dat kan met Bixby. Vraag om verbinding te maken met een wifi netwerk, een e-mail te schrijven of je agenda te tonen.  </p>

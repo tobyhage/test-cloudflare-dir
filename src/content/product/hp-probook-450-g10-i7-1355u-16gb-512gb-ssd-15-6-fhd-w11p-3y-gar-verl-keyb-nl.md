@@ -1,0 +1,25 @@
+---
+"name": "HP ProBook 450 G10 - i7-1355U - 16GB - 512GB SSD - 15.6\" FHD - W11P - 3Y Gar. - Verl. Keyb. NL"
+"brand": "HP"
+"feed_url": "https://www.bol.com/nl/nl/p/hp-probook-450-g10-i7-1355u-16gb-512gb-ssd-15-6-fhd-w11p-3y-gar-verl-keyb-nl/9300000158752053"
+"price": 882.39
+"currency": "EUR"
+"GTIN": "8720938465185"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["15.6 inch","512 GB","16 GB"]
+"features": {"screen_diagonal_inches":"15.6 inch","total_storage_space":"512 GB","memory_size":"16 GB"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"Intel Core i7","changed_price_past_3_days":true,"product_family":"Probook"}
+"historical_prices": [{"date":"2023-08-26","price":879},{"date":"2023-12-13","price":882.39}]
+"changed": "2023-12-13 07:25:19"
+"previous_price": 879
+"seo_header_title": "HP ProBook 450 G10 - i7-1355U - 16GB - 512GB SSD - 15.6\" FHD - W11P - 3Y Gar. - Verl. Keyb. NL"
+"seo_meta_description": "HP ProBook 450 G10 - i7-1355U - 16GB - 512GB SSD - 15.6\" FHD - W11P - 3Y Gar. - Verl. Keyb. NL"
+"seo_h1_title": "HP ProBook 450 G10 - i7-1355U - 16GB - 512GB SSD - 15.6\" FHD - W11P - 3Y Gar. - Verl. Keyb. NL"
+"seo_short_description": "<p> De HP ProBook 450 15 inch laptop biedt groeiende bedrijven zakelijke prestaties, meerlaagse endpointbeveiliging en duurzaamheid in een eenvoudig te upgraden ontwerp."
+"seo_long_description": "Dankzij de nieuwste Intel®-processor en lange batterijduur is deze functierijke pc goed uitgerust voor langdurige productiviteit en hybride werken. <br /><br /><strong>Geoptimaliseerd voor het hybride werken</strong><br />Zie er optimaal uit, waar je ook werkt, met uitgebreide camerafuncties en lichtcorrecties. <br /><br /><strong>Getest op duurzaamheid</strong><br />Hij voldoet aan 19 MIL-STD-tests voor duurzaamheid en is eenvoudig te onderhouden, zodat je optimaal profiteert van je IT-investering. <br /><br /><strong>Prestaties voor groeiende bedrijven</strong><br />Voer veeleisende taken uit met de nieuwste Intel® CPU, lange batterijduur en upgradebaar geheugen en opslag. <br /><br /><strong>Beschermd door HP Wolf Security</strong><br />HP Wolf Pro Security Edition pc's combineren HP Sure Click Pro met HP Sure Sense Pro door diepere bescherming dan de standaardversies via een 1-jarige of 3-jarige gebruikerslicentie met HP Support. Dit vormt een krachtige, enkelvoudige oplossing waarvoor geen IT-beheerde pc-omgeving vereist is. </p>"
+"short_description": "De HP ProBook 450 15 inch laptop biedt groeiende bedrijven zakelijke prestaties, meerlaagse endpointbeveiliging en duurzaamheid in een eenvoudig te upgraden ontwerp. Dankzij de nieuwste Intel®-processor en lange batterijduur is deze functierijke pc goed uitgerust voor langdurige productiviteit en hybride werken. Geoptimaliseerd voor het hybride werken Zie er optimaal uit, waar je ook werkt, met uitgebreide camerafuncties en lichtcorrecties. Getest op duurzaamheid Hij voldoet aan 19 MIL-STD-tests voor duurzaamheid en is eenvoudig te onderhouden, zodat je optimaal profiteert van je IT-investering. Prestaties voor groeiende bedrijven Voer veeleisende taken uit met de nieuwste Intel® CPU, lange batterijduur en upgradebaar geheugen en opslag. Beschermd door HP Wolf Security HP Wolf Pro Security Edition pc's combineren HP Sure Click Pro met HP Sure Sense Pro door diepere bescherming dan de standaardversies via een 1-jarige of 3-jarige gebruikerslicentie met HP Support. Dit vormt een krachtige, enkelvoudige oplossing waarvoor geen IT-beheerde pc-omgeving vereist is."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/hp-probook-450-g10-i7-1355u-16gb-512gb-ssd-15-6-fhd-w11p-3y-gar-verl-keyb-nl.webp"
+---
+
+<p> De HP ProBook 450 15 inch laptop biedt groeiende bedrijven zakelijke prestaties, meerlaagse endpointbeveiliging en duurzaamheid in een eenvoudig te upgraden ontwerp. Dankzij de nieuwste Intel®-processor en lange batterijduur is deze functierijke pc goed uitgerust voor langdurige productiviteit en hybride werken.<br /><br /><strong>Geoptimaliseerd voor het hybride werken</strong><br />Zie er optimaal uit, waar je ook werkt, met uitgebreide camerafuncties en lichtcorrecties.<br /><br /><strong>Getest op duurzaamheid</strong><br />Hij voldoet aan 19 MIL-STD-tests voor duurzaamheid en is eenvoudig te onderhouden, zodat je optimaal profiteert van je IT-investering.<br /><br /><strong>Prestaties voor groeiende bedrijven</strong><br />Voer veeleisende taken uit met de nieuwste Intel® CPU, lange batterijduur en upgradebaar geheugen en opslag.<br /><br /><strong>Beschermd door HP Wolf Security</strong><br />HP Wolf Pro Security Edition pc's combineren HP Sure Click Pro met HP Sure Sense Pro door diepere bescherming dan de standaardversies via een 1-jarige of 3-jarige gebruikerslicentie met HP Support. Dit vormt een krachtige, enkelvoudige oplossing waarvoor geen IT-beheerde pc-omgeving vereist is. </p>

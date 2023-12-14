@@ -1,0 +1,23 @@
+---
+"name": "Lenovo V15 G4 AMN Ryzen 5-7520U"
+"brand": "Lenovo"
+"feed_url": "https://www.bol.com/nl/nl/p/lenovo-v15-g4-amn-ryzen-5-7520u/9300000148657204"
+"price": 477.05
+"currency": "EUR"
+"GTIN": "0196804240244"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["15.6 inch","512 GB","8 GB"]
+"features": {"screen_diagonal_inches":"15.6 inch","total_storage_space":"512 GB","memory_size":"8 GB"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"AMD Ryzen 5","changed_price_past_3_days":false}
+"changed": "2023-12-13 07:26:38"
+"seo_header_title": "Lenovo V15 G4 AMN Ryzen 5-7520U"
+"seo_meta_description": "Lenovo V15 G4 AMN Ryzen 5-7520U"
+"seo_h1_title": "Lenovo V15 G4 AMN Ryzen 5-7520U"
+"seo_short_description": "<p> <strong>Lenovo V15 G4 FullHD 15."
+"seo_long_description": "6\" laptop - Ryzen 5 7520U - 8GB - 512GB SSD - Windows 11 HOME</strong> </p> <p> <strong>Werk makkelijk de hele dag door</strong><br />Met een prachtig ontworpen en uiterst veilige Lenovo V15 G4 ALC kunt u vol vertrouwen in bijna elke omgeving verbinding maken en doorwerken. Deze dunne, lichte pc is ervoor gemaakt om op meerdere plekken meerdere taken uit te voeren, kortom, voor uw manier van werken. </p> <p> <strong>Onze specialist adviseert deze laptop voor:</strong><br />Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking. <br />Studie: verslagen uitwerken in Word en presentaties maken in Powerpoint. *<br />Films en series kijken in Full HD: het scherm kent een hoge beeldkwaliteit voor het bekijken van jouw films en series. </p> <p> <strong>Deze laptop wordt niet aanbevolen voor:</strong><br />Fotobewerking: de processor is hiervoor niet snel genoeg. Wij adviseren minimaal een i7 processor of een aparte videokaart. <br />Videobewerking: deze laptop beschikt niet over een aparte videokaart. <br />Gaming: heeft niet de eigenschappen voor het spelen van de meest recente games. </p> <p> Deze laptop is up te graden met extra opslagcapaciteit. Zoek op <strong>Laptop upgrade set geschikt voor de Lenovo V15 G4</strong> </p>"
+"short_description": "Lenovo V15 G4 FullHD 15.6\" laptop - Ryzen 5 7520U - 8GB - 512GB SSD - Windows 11 HOME Werk makkelijk de hele dag door Met een prachtig ontworpen en uiterst veilige Lenovo V15 G4 ALC kunt u vol vertrouwen in bijna elke omgeving verbinding maken en doorwerken. Deze dunne, lichte pc is ervoor gemaakt om op meerdere plekken meerdere taken uit te voeren, kortom, voor uw manier van werken. Onze specialist adviseert deze laptop voor: Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking. Studie: verslagen uitwerken in Word en presentaties maken in Powerpoint.* Films en series kijken in Full HD: het scherm kent een hoge beeldkwaliteit voor het bekijken van jouw films en series. Deze laptop wordt niet aanbevolen voor: Fotobewerking: de processor is hiervoor niet snel genoeg. Wij adviseren minimaal een i7 processor of een aparte videokaart. Videobewerking: deze laptop beschikt niet over een aparte videokaart. Gaming: heeft niet de eigenschappen voor het spelen van de meest recente games. Deze laptop is up te graden met extra opslagcapaciteit. Zoek op Laptop upgrade set geschikt voor de Lenovo V15 G4"
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/lenovo-v15-g4-amn-ryzen-5-7520u.webp"
+---
+
+<p> <strong>Lenovo V15 G4 FullHD 15.6" laptop - Ryzen 5 7520U - 8GB - 512GB SSD - Windows 11 HOME</strong> </p> <p> <strong>Werk makkelijk de hele dag door</strong><br />Met een prachtig ontworpen en uiterst veilige Lenovo V15 G4 ALC kunt u vol vertrouwen in bijna elke omgeving verbinding maken en doorwerken. Deze dunne, lichte pc is ervoor gemaakt om op meerdere plekken meerdere taken uit te voeren, kortom, voor uw manier van werken. </p> <p> <strong>Onze specialist adviseert deze laptop voor:</strong><br />Dagelijks gebruik: deze laptop is geschikt voor internetten, e-mailen en tekstverwerking.<br />Studie: verslagen uitwerken in Word en presentaties maken in Powerpoint.*<br />Films en series kijken in Full HD: het scherm kent een hoge beeldkwaliteit voor het bekijken van jouw films en series. </p> <p> <strong>Deze laptop wordt niet aanbevolen voor:</strong><br />Fotobewerking: de processor is hiervoor niet snel genoeg. Wij adviseren minimaal een i7 processor of een aparte videokaart.<br />Videobewerking: deze laptop beschikt niet over een aparte videokaart.<br />Gaming: heeft niet de eigenschappen voor het spelen van de meest recente games. </p> <p> Deze laptop is up te graden met extra opslagcapaciteit. Zoek op <strong>Laptop upgrade set geschikt voor de Lenovo V15 G4</strong> </p>

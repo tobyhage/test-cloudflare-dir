@@ -1,29 +1,13 @@
 ---
-import { getCollection } from 'astro:content';
-import Layout from '../layouts/Layout.astro';
-
-const posts = await getCollection('posts');
+import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="Keystatic & Astro's Content Collections">
+<Layout title="Cloudflare ssr test">
   <div>
-    <h1>Keystatic ⚡️ + Astro 🚀</h1>
+    <h1>Cloudflare ssr test</h1>
     <p>
-      This homepage shows how to load data from Astro's content collections.
+      <strong>This link should go to the site of Bol.com</strong>
+      <a href="/links/bol-com/lenovo/9200000011999428">Lenovo ThinkPad T431s</a>
     </p>
-    <p>
-      <a href="/keystatic">Click here to visit the Admin UI</a>, or the link
-      below to view a post in the collection.
-    </p>
-    <h2>Posts</h2>
-    <ul>
-      {
-        posts.map(post => (
-          <li>
-            <a href={`/posts/${post.slug}`}>{post.data.title}</a>
-          </li>
-        ))
-      }
-    </ul>
   </div>
 </Layout>

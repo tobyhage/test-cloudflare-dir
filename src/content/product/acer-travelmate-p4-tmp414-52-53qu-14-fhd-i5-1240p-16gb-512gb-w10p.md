@@ -1,0 +1,23 @@
+---
+"name": "Acer TravelMate P4 TMP414-52-53QU 14\" FHD, i5-1240P, 16GB, 512GB, W10P"
+"brand": "Acer"
+"feed_url": "https://www.bol.com/nl/nl/p/acer-travelmate-p4-tmp414-52-53qu-14-fhd-i5-1240p-16gb-512gb-w10p/9300000122031654"
+"price": 1149
+"currency": "EUR"
+"GTIN": "4711121328893"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Bedrijf Notebook Clamshell Blauw","Intel® Core™ i5 i5-1240P 1,7 GHz","35,6 cm (14\") WUXGA 1920 x 1200 Pixels IPS 16:10","16 GB DDR4-SDRAM","512 GB SSD","Intel Iris Xe Graphics","Wi-Fi 6E (802.11ax) Ethernet LAN 10,100,1000 Mbit/s Bluetooth 5.2","Lithium-Ion (Li-Ion) 56 Wh 65 W","Windows 10 Pro"]
+"features": {"screen_diagonal_inches":"14 inch","screen_resolution":"1920 x 1200 Pixels","processor_family":"Intel® Core™ i5","memory_size":"16 GB","memory_type":"DDR4-SDRAM","total_storage_space":"512 GB","operating_system":"Windows 10 Pro","battery_capacity":"56 Wh","width":"319,9 mm","depth":"229,9 mm","height":"17,9 mm","weight":"1,48 kg","graphics":"WUXGA"}
+"selection_group": {"screen_diagonal":"14 inch","processor":"Intel Core i5","changed_price_past_3_days":false,"product_family":"TravelMate"}
+"changed": "2023-12-12 07:27:34"
+"seo_header_title": "Acer TravelMate P4 TMP414-52-53QU 14\" FHD, i5-1240P, 16GB, 512GB, W10P"
+"seo_meta_description": "Acer TravelMate P4 TMP414-52-53QU 14\" FHD, i5-1240P, 16GB, 512GB, W10P"
+"seo_h1_title": "Acer TravelMate P4 TMP414-52-53QU 14\" FHD, i5-1240P, 16GB, 512GB, W10P"
+"seo_short_description": "<p> Ga aan de slag met grafische projecten en scrol door grote spreadsheets op de 14 inch Acer TravelMate P4 (TMP414-52-53QU)."
+"seo_long_description": "De combinatie van de 12e generatie Intel Core i5 processor en het 16 gigabyte DDR4 werkgeheugen geeft de laptop genoeg kracht voor multitasken. Door de ingebouwde Intel Iris Xe Graphics shared videokaart renderen je beelden snel, zodat je ze snel verwerkt in verslagen en presentaties. Verder draait deze laptop op Windows 10 Pro. Hiermee maak je gemakkelijk op afstand verbinding met de systemen op kantoor, wat handig is als je een dag thuis werkt. Wil je liever aan de slag met Windows 11? Geen punt, deze laptop ondersteunt Dual Load waarmee je tussen beide besturingssystemen wisselt. Je logt via de vingerafdrukscanner snel en veilig in op de laptop. Zo weet je zeker dat niemand anders toegang krijgt tot jouw bestanden. Verder weegt deze Acer slechts 1,3 kilogram, waardoor je hem gemakkelijk met je meeneemt. </p>"
+"short_description": "Ga aan de slag met grafische projecten en scrol door grote spreadsheets op de 14 inch Acer TravelMate P4 (TMP414-52-53QU). De combinatie van de 12e generatie Intel Core i5 processor en het 16 gigabyte DDR4 werkgeheugen geeft de laptop genoeg kracht voor multitasken. Door de ingebouwde Intel Iris Xe Graphics shared videokaart renderen je beelden snel, zodat je ze snel verwerkt in verslagen en presentaties. Verder draait deze laptop op Windows 10 Pro. Hiermee maak je gemakkelijk op afstand verbinding met de systemen op kantoor, wat handig is als je een dag thuis werkt. Wil je liever aan de slag met Windows 11? Geen punt, deze laptop ondersteunt Dual Load waarmee je tussen beide besturingssystemen wisselt. Je logt via de vingerafdrukscanner snel en veilig in op de laptop. Zo weet je zeker dat niemand anders toegang krijgt tot jouw bestanden. Verder weegt deze Acer slechts 1,3 kilogram, waardoor je hem gemakkelijk met je meeneemt."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/acer-travelmate-p4-tmp414-52-53qu-14-fhd-i5-1240p-16gb-512gb-w10p.webp"
+---
+
+<p> Ga aan de slag met grafische projecten en scrol door grote spreadsheets op de 14 inch Acer TravelMate P4 (TMP414-52-53QU). De combinatie van de 12e generatie Intel Core i5 processor en het 16 gigabyte DDR4 werkgeheugen geeft de laptop genoeg kracht voor multitasken. Door de ingebouwde Intel Iris Xe Graphics shared videokaart renderen je beelden snel, zodat je ze snel verwerkt in verslagen en presentaties. Verder draait deze laptop op Windows 10 Pro. Hiermee maak je gemakkelijk op afstand verbinding met de systemen op kantoor, wat handig is als je een dag thuis werkt. Wil je liever aan de slag met Windows 11? Geen punt, deze laptop ondersteunt Dual Load waarmee je tussen beide besturingssystemen wisselt. Je logt via de vingerafdrukscanner snel en veilig in op de laptop. Zo weet je zeker dat niemand anders toegang krijgt tot jouw bestanden. Verder weegt deze Acer slechts 1,3 kilogram, waardoor je hem gemakkelijk met je meeneemt. </p>

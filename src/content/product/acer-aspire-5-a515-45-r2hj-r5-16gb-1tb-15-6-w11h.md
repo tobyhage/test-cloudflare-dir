@@ -1,0 +1,23 @@
+---
+"name": "Acer Aspire 5 A515-45-R2HJ R5 16GB 1TB 15.6\" W11H"
+"brand": "Acer"
+"feed_url": "https://www.bol.com/nl/nl/p/acer-aspire-5-a515-45-r2hj-r5-16gb-1tb-15-6-w11h/9300000079344251"
+"price": 669
+"currency": "EUR"
+"GTIN": "4710886989615"
+"supplier": "Bol.com"
+"category": "Computer"
+"bullet_points": ["Notebook Clamshell Zilver","AMD Ryzen™ 5 5500U 2,1 GHz","39,6 cm (15.6\") Full HD 1920 x 1080 Pixels IPS LED backlight Mat","16 GB DDR4-SDRAM 2 x 8 GB","1 TB SSD","AMD Radeon RX Vega 7","Wi-Fi 6 (802.11ax) Ethernet LAN 1000 Mbit/s Bluetooth","Lithium-Ion (Li-Ion) 48 Wh 10 uur 45 W","Windows 11 Home 64-bit"]
+"features": {"screen_diagonal_inches":"15.6 inch","screen_resolution":"1920 x 1080 Pixels","processor_family":"AMD Ryzen™ 5","memory_size":"16 GB","memory_type":"DDR4-SDRAM","total_storage_space":"1 TB","operating_system":"Windows 11 Home","battery_capacity":"48 Wh","width":"363,4 mm","depth":"250,5 mm","height":"17,9 mm","weight":"1,76 kg"}
+"selection_group": {"screen_diagonal":"15 inch","processor":"AMD Ryzen 5","changed_price_past_3_days":false,"product_family":"Aspire"}
+"changed": "2023-12-13 07:26:33"
+"seo_header_title": "Acer Aspire 5 A515-45-R2HJ R5 16GB 1TB 15.6\" W11H"
+"seo_meta_description": "Acer Aspire 5 A515-45-R2HJ R5 16GB 1TB 15.6\" W11H"
+"seo_h1_title": "Acer Aspire 5 A515-45-R2HJ R5 16GB 1TB 15.6\" W11H"
+"seo_short_description": "<p> De uiterst veelzijdige Acer Aspire 5 A515-45-R2HJ laptop is voorzien van de AMD Ryzen™ 5 5500U processor met 16 GB werkgeheugen voor multitasking en een AMD Radeon RX Vega 7 grafische kaart voor vlotte bewerkingen."
+"seo_long_description": "De 1TB PCIe NVMe SSD opslag maakt deze laptop compleet. <br /><br /><strong>Beeld op zijn best</strong><br />Creëer op het 15. 6\" FHD-scherm alles wat je wilt. Met een screen-to-body ratio van maar liefst 81,18% en visuele technologieën van Acer, beschik je over alles voor een dynamische kleuroptimalisatie en kijkcomfort. <br /><br /><strong>Ultieme slimmigheidjes</strong><br />Acer PurifiedVoice™ kan achtergrondgeluid voor beide gebruikers actief onderdrukken en is compatibel met externe hoofdtelefoons en microfoons. <br /><br /><strong>Ultieme connectiviteit</strong><br />Geniet van de volgende generatie connectiviteit: Wi-Fi 6 AX (2x2) en Bluetooth®. <br /><br /><strong>Ultiem design</strong><br />De Aspire 5 heeft een metalen cover. Hij is verkrijgbaar in Pure Silver en beschikt over toetsenbordverlichting, zodat je meer kunt doen, waar en wanneer je maar wilt. </p>"
+"short_description": "De uiterst veelzijdige Acer Aspire 5 A515-45-R2HJ laptop is voorzien van de AMD Ryzen™ 5 5500U processor met 16 GB werkgeheugen voor multitasking en een AMD Radeon RX Vega 7 grafische kaart voor vlotte bewerkingen. De 1TB PCIe NVMe SSD opslag maakt deze laptop compleet. Beeld op zijn best Creëer op het 15.6\" FHD-scherm alles wat je wilt. Met een screen-to-body ratio van maar liefst 81,18% en visuele technologieën van Acer, beschik je over alles voor een dynamische kleuroptimalisatie en kijkcomfort. Ultieme slimmigheidjes Acer PurifiedVoice™ kan achtergrondgeluid voor beide gebruikers actief onderdrukken en is compatibel met externe hoofdtelefoons en microfoons. Ultieme connectiviteit Geniet van de volgende generatie connectiviteit: Wi-Fi 6 AX (2x2) en Bluetooth®. Ultiem design De Aspire 5 heeft een metalen cover. Hij is verkrijgbaar in Pure Silver en beschikt over toetsenbordverlichting, zodat je meer kunt doen, waar en wanneer je maar wilt."
+"external_image_url": "https://images.zakelijkelaptopkopen.nl/acer-aspire-5-a515-45-r2hj-r5-16gb-1tb-15-6-w11h.webp"
+---
+
+<p> De uiterst veelzijdige Acer Aspire 5 A515-45-R2HJ laptop is voorzien van de AMD Ryzen™ 5 5500U processor met 16 GB werkgeheugen voor multitasking en een AMD Radeon RX Vega 7 grafische kaart voor vlotte bewerkingen. De 1TB PCIe NVMe SSD opslag maakt deze laptop compleet.<br /><br /><strong>Beeld op zijn best</strong><br />Creëer op het 15.6" FHD-scherm alles wat je wilt. Met een screen-to-body ratio van maar liefst 81,18% en visuele technologieën van Acer, beschik je over alles voor een dynamische kleuroptimalisatie en kijkcomfort.<br /><br /><strong>Ultieme slimmigheidjes</strong><br />Acer PurifiedVoice™ kan achtergrondgeluid voor beide gebruikers actief onderdrukken en is compatibel met externe hoofdtelefoons en microfoons.<br /><br /><strong>Ultieme connectiviteit</strong><br />Geniet van de volgende generatie connectiviteit: Wi-Fi 6 AX (2x2) en Bluetooth®.<br /><br /><strong>Ultiem design</strong><br />De Aspire 5 heeft een metalen cover. Hij is verkrijgbaar in Pure Silver en beschikt over toetsenbordverlichting, zodat je meer kunt doen, waar en wanneer je maar wilt. </p>
