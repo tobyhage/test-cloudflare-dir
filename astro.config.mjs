@@ -19,8 +19,8 @@ export default defineConfig({
     // mode: 'advanced' -> working!
     mode: 'directory', // -> with functionPerRoute: false also working!
     functionPerRoute: true,
-    // functionPerRoute: true -> src/pages/posts/[slug].astro renamed to slug.astro to prevent file size error Cloudflare
-    // 
+    // functionPerRoute: true -> src/pages/posts/[slug].astro moved outside pages folder to prevent file size error Cloudflare
+    // with src/pages/posts/[slug].astro -> the product content is also in /functions/slug.js ?!?!?!?!
     imageService: 'passthrough',
   })
 });
