@@ -17,8 +17,10 @@ export default defineConfig({
   },
   adapter: cloudflare({
     // mode: 'advanced' -> working!
-    mode: 'directory',
+    mode: 'directory', // -> with functionPerRoute: false also working!
     functionPerRoute: true,
+    // functionPerRoute: true -> src/pages/posts/[slug].astro renamed to slug.astro to prevent file size error Cloudflare
+    // 
     imageService: 'passthrough',
   })
 });
